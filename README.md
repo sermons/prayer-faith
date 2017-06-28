@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# The Prayer of Faith
+## Mark 11:12-14, 20-25
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Build status](https://travis-ci.org/sermons/prayer-faith.svg)](https://travis-ci.org/sermons/prayer-faith)
+[![Node deps](https://david-dm.org/sermons/prayer-faith.svg)](https://david-dm.org/sermons/prayer-faith)
+[![Node devDeps](https://david-dm.org/sermons/prayer-faith/dev-status.svg)](https://david-dm.org/sermons/prayer-faith#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
