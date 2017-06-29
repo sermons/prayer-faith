@@ -60,7 +60,8 @@ And Jesus answered them, <br/>
 <span class="ref">23</span>
 Truly, I say to you,  <br/>
 whoever says to this mountain,  <br/>
-Be taken up and thrown into the sea,’  <br/>
+Be taken up and thrown into the sea,’
+
 and does not doubt in his heart,  <br/>
 but believes that what he says  <br/>
 will come to pass, it will be done for him. 
@@ -78,7 +79,8 @@ and it will be yours.
 
 <span class="ref">25</span>
 And whenever you stand praying, forgive,  <br/>
-if you have anything against anyone,  <br/>
+if you have anything against anyone,
+
 so that your Father also who is in heaven  <br/>
 may forgive you your trespasses.”
 
