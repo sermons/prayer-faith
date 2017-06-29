@@ -1,3 +1,4 @@
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 # The Prayer of Faith
 ## Mark 11:12-14, 20-25
 
@@ -86,8 +87,35 @@ Mark 11:24-25 (ESV) (p.5/5)
 </div>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" id="outline" -->
 ## Prayer of Faith <span class="ref">(Mark 11)</span>
 1. Point **One** <span class="ref">(v1)</span>
 2. Point **Two** <span class="ref">(v2)</span>
 3. Point **Three** <span class="ref">(v3)</span>
+
+---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+## Outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+## Outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+closing Scripture
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" class="empty" -->
