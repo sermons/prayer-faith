@@ -2,6 +2,15 @@
 # The Prayer of Faith
 ## Mark 11:12-14, 20-25
 
+>>>
++ Rom 4:20 waver in unbelief
++ James 1:6 wave of sea
++ Mt 6:14 forgive others
+  + requests in love, not only faith (Benson)
++ 1 Tim 2:8 men holy hands
++ paralytic: which is easier
+  + forgiveness || healing
+
 ---
 <!-- .slide: data-background="white" -->
 # Opening **Question**
@@ -117,7 +126,28 @@ Mark 11:24-25 (ESV) (p.5/5)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-closing Scripture
+The prayer offered in faith
+will restore the one who is sick, 
+and the Lord will raise him up, 
+and if he has committed sins, 
+they will be forgiven him.
+
+<div class="ref">
+James 5:15 (NASB) (p.1/2)
+</div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+Therefore, confess your sins to one another,
+and pray for one another 
+so that you may be healed. 
+
+The effective prayer of a righteous man 
+can accomplish much.
+
+<div class="ref">
+James 5:16 (NASB) (p.2/2)
+</div>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" class="empty" -->
