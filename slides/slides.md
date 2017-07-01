@@ -5,10 +5,10 @@
 >>>
 + context:
   + 3rd Passover in Jerusalem
-  + triumphal entry
+  + triumphal entry (to public)
   + curse fig tree
-  + cleanse temple
-  + fig tree withered
+  + cleanse temple (to Pharisees)
+  + fig tree withered (to disciples)
   + question authority (John)
   + vineyard + tenants
 + Mt 6:14 forgive others
@@ -19,7 +19,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# Does **faith** really move **mountains**?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
