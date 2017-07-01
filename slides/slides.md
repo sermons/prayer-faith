@@ -3,6 +3,14 @@
 ## Mark 11:12-14, 20-25
 
 >>>
++ context:
+  + 3rd Passover in Jerusalem
+  + triumphal entry
+  + curse fig tree
+  + cleanse temple
+  + fig tree withered
+  + question authority (John)
+  + vineyard + tenants
 + Mt 6:14 forgive others
   + requests in love, not only faith (Benson)
 + 1 Tim 2:8 men holy hands
