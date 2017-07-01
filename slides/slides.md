@@ -189,9 +189,11 @@ Mark 11:25 (ESV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 The prayer offered in faith
-will restore the one who is sick,
+
+will restore the one who is sick, <br/>
 and the Lord will raise him up,
-and if he has committed sins,
+
+and if he has committed sins, <br/>
 they will be forgiven him.
 
 <div class="ref">
@@ -200,11 +202,11 @@ James 5:15 (NASB) (p.1/2)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-Therefore, confess your sins to one another,
-and pray for one another
+Therefore, confess your sins to one another, <br/>
+and pray for one another <br/>
 so that you may be healed.
 
-The effective prayer of a righteous man
+The effective prayer of a righteous man <br/>
 can accomplish much.
 
 <div class="ref">
