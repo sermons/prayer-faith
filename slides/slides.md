@@ -2,9 +2,6 @@
 # The Prayer of Faith
 ## Mark 11:12-14, 20-25
 
->>>
-+ 1 Tim 2:8 men holy hands
-
 ---
 <!-- .slide: data-background="white" -->
 # What kind of **prayer** does God answer?
