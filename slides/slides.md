@@ -171,7 +171,11 @@ The **fig tree** that you cursed has **withered**.
   + **justify**, **forgive**, and **heal** us
 
 ---
-## Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+## Prayer of Faith <span class="ref">(Mark 11)</span>
+1. **Power of God** <span class="ref">(v22-23)</span>
+2. Faith in Action <span class="ref">(v24)</span>
+3. Grace Received, Grace Given <span class="ref">(v25)</span>
 
 >>>
 + Jesus **teaches** his disciples:
@@ -278,7 +282,10 @@ James 1:5-6 (ESV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-## Outline
+## Prayer of Faith <span class="ref">(Mark 11)</span>
+1. Power of God <span class="ref">(v22-23)</span>
+2. **Faith in Action** <span class="ref">(v24)</span>
+3. Grace Received, Grace Given <span class="ref">(v25)</span>
 
 >>>
 + A **prayer** that God answers:
@@ -394,7 +401,10 @@ James 2:23 (ESV) (p.2/2)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-## Outline
+## Prayer of Faith <span class="ref">(Mark 11)</span>
+1. Power of God <span class="ref">(v22-23)</span>
+2. Faith in Action <span class="ref">(v24)</span>
+3. **Grace Received, Grace Given** <span class="ref">(v25)</span>
 
 >>>
 + Prayer that God accepts:
