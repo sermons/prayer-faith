@@ -95,6 +95,11 @@ Mark 11:24-25 (ESV) (p.5/5)
 2. **Faith** in Action <span class="ref">(v24)</span>
 3. **Grace** Received, Grace Given <span class="ref">(v25)</span>
 
+>>>
++ Centers on God's **power**, not my conviction
++ Comes from **faith** lived out in obedience
++ Is contingent on me showing **grace** to others:
+
 ---
 ## Jesus' 3rd Passover <span class="ref">(Mk 11-12)</span>
 + With the **public**:
@@ -108,11 +113,12 @@ Mark 11:24-25 (ESV) (p.5/5)
   + *Pharisees*, Sadducees, and Scribes <span class="ref">(12:13-38)</span>
 
 >>>
-+ Jesus' earthly ministry mostly in **Galilee**
-+ Annual appearances in **Jerusalem** were key
++ Jesus' ministry mostly **Galilee**
++ Annual appear. in **Jeru** were key
   + 3rd/final **Passover** &rArr; passion
-+ **deliberate** actions w/public, disciples, leaders:
-+ proclaim **authority** over Father's house
++ **deliberate** actions w/:
+  + public, disciples, leaders
++ **authority** over Father's house
   + kick out wicked **caretakers**
   + restore true **worship**
 + w/**public**, cleansing temple:
@@ -130,10 +136,11 @@ Mark 11:17 (ESV)
 
 >>>
 + kick out **robbers**
-  + seeking **own** profit, not God's agenda
+  + seeking **own** profit
+  + not God's agenda
   + **hindering** others from worship
-+ establish house of **prayer** for all nations
-+ again, when addressing **religious leaders**:
++ house of **prayer** for all nations
++ again, with **religious leaders**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-HNx4QLRgy2k-rain_plant.jpg" -->
@@ -158,17 +165,18 @@ Mark 12:9 (ESV)
 Rabbi, look! <br/>
 The **fig tree** that you cursed has **withered**.
 
+<div class="ref">
+Mark 11:21 (ESV)
+</div>
+
 >>>
-+ Today's passage is **small**, intimate w/disciples
-  + not Jesus being a **jerk** to a tree!
++ Today: **small**, intimate w/discip
+  + not being a **jerk** to a tree!
 + **deliberate**, to show a **message**:
   + Creator has **authority**
-  + same as the more spectacular
-  + triumphal entry, showdown w/Pharisees
-+ Focus is not power of **my** faith
-+ but on **Jesus'** authority:
-  + **tear** down and **build** up
-  + **justify**, **forgive**, and **heal** us
++ **same** msg as more spectacular
+  + triumphal entry
+  + showdown w/Pharisees
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
@@ -182,7 +190,10 @@ The **fig tree** that you cursed has **withered**.
 + the **prayer** that God answers,
   + that can move **mountains**:
 + firstly, rests on **God's** power
-  + not on the strength of **my** conviction:
+  + not strength of **my** conviction:
++ **Jesus'** authority:
+  + **tear** down and **build** up
+  + **justify**, **forgive**, and **heal** us
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DLwUVlzrP0Q-waves_rocks.jpg" -->
@@ -206,7 +217,7 @@ Mark 11:22-23 (ESV)
   + all things, nothing impossible
   + **Creator** has authority over
     + fig tree, mountain, wind+waves
-  + &rArr; focus in v23 is **power** of Godly faith
+  + &rArr; focus: **power** of Godly faith
 + not **strength** of my faith
   + but **object** of faith
 + focusing on strength of **own** conviction is like saying:
@@ -215,7 +226,7 @@ Mark 11:22-23 (ESV)
 ### "God, I believe You will do what **I ask**"
 
 >>>
-+ "if I believe **hard enough**, God will do it"
++ "if I believe **hard enough**, God will do"
   + &rArr; who is **servant**, who is King?
 
 ---
@@ -273,12 +284,11 @@ James 1:5-6 (ESV)
 # Have I doubted God's **power** or **character** to fulfill His promises?
 
 >>>
-+ either **unable** or **unwilling**
++ think God is **unable** or **unwilling**?
 + God's promises are **big**!
-  + sins though **scarlet**
-    + are made **white** as snow
-  + left us **Counselor** / Advocate, wisdom
-  + Himself building / cleansing **church**
+  + sins **scarlet** &rArr; **white** as snow
+  + left **Counselor**/Advoc, wisdom
+  + Himself build/cleanse **church**
   + coming **soon** as Righteous **Judge**
 + My requests are so **small**:
   + grades, career, health, happiness
@@ -292,7 +302,8 @@ James 1:5-6 (ESV)
 
 >>>
 + A **prayer** that God answers:
-+ Centers on God's **power** to fulfil His promises
++ Centers on God's **power**
+  + to fulfill His **promises**
 + Comes from **faith** in action:
   + **subordinate** to God, and
   + **obedient** to His command
@@ -310,13 +321,13 @@ Mark 11:24 (ESV)
 
 >>>
 + v23 God's **power** to move mountains
-+ v24 our faith **rltn** w/God in prayer
++ v24 our faith **relatn** w/God in prayer
 + *"prayer", "ask"*: not **command**
   + prayer requires **submission**
 + if I do not ack I'm **subordinate** to God
-  + then I'm not **praying**
+  + then I'm not **praying**:
   + I'm **telling** God what to do
-+ James: 2nd kind of prayer God does **not** answer:
++ Jam: 2nd prayer God **doesn't** answer:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
@@ -334,7 +345,7 @@ James 4:2-3 (ESV) (p.1/2)
 >>>
 + asking for sth for my **passions**
   + (ἡδοναῖς, selfish sensual desires, pleasures)
-  + is not really **praying**
+  + is also not really **praying**
 + v4 **adulterers**
 + the solution?
 
@@ -352,9 +363,10 @@ James 4:7,8 (ESV) (p.2/2)
 
 >>>
 + To have **faith** in God means
-+ to **submit** to Him (subordinate position)
++ to **submit** to Him
+  + subordinate position
 + **draw near**, seek His face
-  + not just His hand / blessing
+  + not just His **hand** / blessing
 + not just warm fuzzy **feelings**!
 + faith requires **action**:
 
@@ -363,32 +375,40 @@ James 4:7,8 (ESV) (p.2/2)
 Was not **Abraham** our father justified by **works** <br/>
 when he offered up his son **Isaac** on the altar?
 
-<span class="ref">22</span>
-You see that **faith** was **active** <br/>
-along with his works, <br/>
-and faith was **completed** by his works;
-
 <div class="ref">
-James 2:21-22 (ESV) (p.1/2)
+James 2:21 (ESV) (p.1/3)
 </div>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
+
+<span class="ref">22</span>
+You see that **faith** was **active** <br/>
+along with his works,
+
+and faith was **completed** by his works;
+
 and the Scripture was fulfilled that says,
 
-“Abraham **believed** God, <br/>
-and it was counted to him as **righteousness**” --
+<div class="ref">
+James 2:22 (ESV) (p.2/3)
+</div>
 
-and he was called a friend of God.
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
+“Abraham **believed** God, <br/>
+and it was counted to him as **righteousness**” -- <br/>
+and he was called a **friend** of God.
 
 <div class="ref">
-James 2:23 (ESV) (p.2/2)
+James 2:23 (ESV) (p.3/3)
 </div>
 
 >>>
 + God's **promise** (Gen 15): **believed** God
 + promise **fulfilled** (Gen 21)
-+ but faith not **complete** until Moriah (Gen 22)
++ but faith not **complete**
+  + until Moriah (Gen 22)
 + this is **real** faith!
 + the prayer of **faith** is willing to
   + **offer** all we hold dear
@@ -416,9 +436,12 @@ James 2:23 (ESV) (p.2/2)
 
 >>>
 + Prayer that God accepts:
-+ Centers on God's **power**, not my conviction
-+ Comes from **faith** lived out in obedience
-+ Is contingent on me showing **grace** to others:
++ Centers on God's **power**
+  + not my conviction
++ Comes from **faith**
+  + lived out in **obedience**
++ Is contingent on me
+  + showing **grace** to others:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iQWvVYMtv1k-hands.jpg" -->
@@ -433,7 +456,7 @@ Mark 11:25 (ESV)
 </div>
 
 >>>
-+ 1st imperative (v23): Have **faith** in God
++ 1st imperative (v23): **faith** in God
 + 2nd imperative (v25): **forgive**
   + requests in **love**, not only faith (Benson)
 + What does **forgiveness** have to do
@@ -454,7 +477,8 @@ Mark 2:9 (NASB)
 
 >>>
 + **forgiveness** || **healing**:
-+ v10-12: **heal** &rArr; show **authority** to forgive sins
++ v10-12: **heal** &rArr;
+  + show **auth** to forgive sins
 + **Creator** has authority over
   + **body**, fig tree, mountain
 + &rArr; authority to **judge**
@@ -494,11 +518,11 @@ James 5:16 (NASB) (p.2/2)
 </div>
 
 >>>
-+ but I'm **not** righteous
++ but I'm **not** righteous!
   + &rArr; God's **grace**
-  + Christ **died** for my sin
-  + so I may be **deemed** righteous
-+ &rArr; my prayer may be **effective**
++ Christ **died** for my sin
+  + &rArr; I may be **deemed** righteous
+  + &rArr; my prayer may be **effective**
 + This is God's **grace** to me:
   + now will I show **grace** to others?
 
