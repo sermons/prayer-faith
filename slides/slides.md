@@ -200,7 +200,7 @@ Mark 11:22-23 (ESV)
 + *"mountain"*: rabbinic **idiom**
   + all things, nothing impossible
   + **Creator** has authority over
-    + fig tree, mountain, everything!
+    + fig tree, mountain, wind+waves
   + &rArr; focus in v23 is **power** of Godly faith
 + not **strength** of my faith
   + but **object** of faith
@@ -416,21 +416,29 @@ Mark 11:25 (ESV)
 >>>
 + 1st imperative (v23): Have **faith** in God
 + 2nd imperative (v25): **forgive**
-+ requests in **love**, not only faith (Benson)
+  + requests in **love**, not only faith (Benson)
++ What does **forgiveness** have to do
+  + with my **prayer requests**?
++ e.g., pray for **healing**:
 
 ---
 Which is easier, to say to the paralytic,  <br/>
 ‘Your sins are **forgiven**’;
 
 or to say, <br/>
-‘Get up, and pick up your pallet and **walk**’?
+‘**Get up**, and pick up your pallet and **walk**’?
 
 <div class="ref">
 Mark 2:9 (NASB)
 </div>
 
 >>>
-+ v10-12: **heal** in order to show **authority** to forgive sins
++ **forgiveness** || **healing**:
++ v10-12: **heal** &rArr; show **authority** to forgive sins
++ **Creator** has authority over
+  + **body**, fig tree, mountain
++ &rArr; authority to **judge**
+  + and show **mercy**
 
 ---
 The prayer offered in **faith**
@@ -442,11 +450,14 @@ and if he has committed **sins**, <br/>
 they will be **forgiven** him.
 
 <div class="ref">
-James 5:15 (NASB)
+James 5:15 (NASB) (p.1/2)
 </div>
 
 >>>
-+ **healing** + **forgiveness**
++ not that all **illness** is
+  + due to personal **sin**
++ but **one** Creator + Judge has auth
+  + to both **heal** + **forgive**
 
 ---
 Therefore, **confess** your sins to one another, <br/>
@@ -466,11 +477,19 @@ James 5:16 (NASB) (p.2/2)
   + Christ **died** for my sin
   + so I may be **deemed** righteous
 + &rArr; my prayer may be **effective**
++ This is God's **grace** to me:
+  + now will I show **grace** to others?
 
 ---
 <!-- .slide: data-background="white" -->
 # What **grace** has God shown me?
 # What **grace** will I show to others?
+
+>>>
++ **forgiveness** of sin
+  + **healing** of illness
+  + deemed **righteous** bc of Christ
++ &rArr; show the same to others?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
