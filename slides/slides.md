@@ -136,6 +136,7 @@ Mark 11:17 (ESV)
 + again, when addressing **religious leaders**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-HNx4QLRgy2k-rain_plant.jpg" -->
 What will the **owner** of the vineyard do?
 
 He will come and **destroy** the tenants <br/>
@@ -153,6 +154,7 @@ Mark 12:9 (ESV)
   + heirs **adopted** by grace
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 Rabbi, look! <br/>
 The **fig tree** that you cursed has **withered**.
 
@@ -183,6 +185,7 @@ The **fig tree** that you cursed has **withered**.
   + not on the strength of **my** conviction:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DLwUVlzrP0Q-waves_rocks.jpg" -->
 <span class="ref">22</span>
 And Jesus answered them, <br/>
 “Have **faith** in **God**.
@@ -229,6 +232,7 @@ vs
 + so when v23 says:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DLwUVlzrP0Q-waves_rocks.jpg" -->
 and does not **doubt** in his heart,  <br/>
 but **believes** that what he says  <br/>
 will come to pass, it will be **done** for him.
@@ -244,6 +248,7 @@ Mark 11:23 (ESV)
 + What kind of prayer does God **not** answer?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
 If any of you lacks **wisdom**, let him **ask God**, <br/>
 who gives **generously** to all without reproach, <br/>
 and it will be given him.
@@ -293,6 +298,7 @@ James 1:5-6 (ESV)
   + **obedient** to His command
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 Therefore I tell you,  <br/>
 whatever you **ask** in **prayer**,  <br/>
 believe that you have received it,  <br/>
@@ -313,6 +319,7 @@ Mark 11:24 (ESV)
 + James: 2nd kind of prayer God does **not** answer:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
 You do not **have**, because you do not **ask**. <br/>
 <span class="ref">3</span>
 You ask and do not **receive**,
@@ -332,6 +339,7 @@ James 4:2-3 (ESV) (p.1/2)
 + the solution?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
 **Submit** yourselves therefore to God. ...
 
 <span class="ref">8</span>
@@ -413,6 +421,7 @@ James 2:23 (ESV) (p.2/2)
 + Is contingent on me showing **grace** to others:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iQWvVYMtv1k-hands.jpg" -->
 And whenever you stand praying, **forgive**,  <br/>
 if you have anything **against** anyone,
 
@@ -432,6 +441,7 @@ Mark 11:25 (ESV)
 + e.g., pray for **healing**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Paola-Beggar_with_Lyra.jpg" -->
 Which is easier, to say to the paralytic,  <br/>
 ‘Your sins are **forgiven**’;
 
@@ -451,6 +461,7 @@ Mark 2:9 (NASB)
   + and show **mercy**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 The prayer offered in **faith**
 
 will restore the one who is **sick**, <br/>
@@ -470,6 +481,7 @@ James 5:15 (NASB) (p.1/2)
   + to both **heal** + **forgive**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 Therefore, **confess** your sins to one another, <br/>
 and **pray** for one another <br/>
 so that you may be **healed**.
