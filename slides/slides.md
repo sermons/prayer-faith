@@ -7,7 +7,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What kind of **prayer** does God **answer**?
+# What kind of **prayer** does God answer?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
@@ -99,7 +99,7 @@ Mark 11:24-25 (ESV) (p.5/5)
 3. **Grace** Received, Grace Given <span class="ref">(v25)</span>
 
 ---
-## Jesus' Third Passover <span class="ref">(Mk 11-12)</span>
+## Jesus' 3rd Passover <span class="ref">(Mk 11-12)</span>
 + With the **public**:
   + *Triumphal* Entry <span class="ref">(11:1-11)</span>
   + Cleansing of the *Temple* <span class="ref">(11:15-19)</span>
@@ -209,11 +209,13 @@ Mark 11:22-23 (ESV)
 ---
 ### "God, I believe You will do what **I ask**"
 <!-- .element: class="fragment fade-out" data-fragment-index="1" -->
+### ~"God, I believe You will do what **I ask**"~
+<!-- .element: class="fragment" data-fragment-index="1" -->
 
 vs
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
-### "God, I believe You will do what **You promised**"
+### "God, I believe You will do <br/> what **You promised**"
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
 >>>
@@ -261,9 +263,10 @@ James 1:5-6 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I doubted God's **power** or God's **character** to do what He promised?
+# Have I doubted God's **power** or **character** to fulfill His promises?
 
 >>>
++ either **unable** or **unwilling**
 + God's promises are **big**!
   + sins though **scarlet**
     + are made **white** as snow
@@ -305,10 +308,11 @@ Mark 11:24 (ESV)
 + James: 2nd kind of prayer God does **not** answer:
 
 ---
-You do not **have**, because you do not **ask**.
-
+You do not **have**, because you do not **ask**. <br/>
 <span class="ref">3</span>
-You ask and do not **receive**, because you ask **wrongly**, <br/>
+You ask and do not **receive**,
+
+because you ask **wrongly**, <br/>
 to spend it on your **passions**.
 
 <div class="ref">
@@ -346,17 +350,24 @@ Was not **Abraham** our father justified by **works** <br/>
 when he offered up his son **Isaac** on the altar?
 
 <span class="ref">22</span>
-You see that **faith** was **active** along with his works, <br/>
+You see that **faith** was **active** <br/>
+along with his works, <br/>
 and faith was **completed** by his works;
 
-<span class="ref">23</span>
-and the Scripture was fulfilled that says, <br/>
+<div class="ref">
+James 2:21-22 (ESV) (p.1/2)
+</div>
+
+---
+and the Scripture was fulfilled that says,
+
 “Abraham **believed** God, <br/>
-and it was counted to him as **righteousness**” -- <br/>
+and it was counted to him as **righteousness**” --
+
 and he was called a friend of God.
 
 <div class="ref">
-James 2:21-23 (ESV)
+James 2:23 (ESV) (p.2/2)
 </div>
 
 >>>
@@ -371,8 +382,8 @@ James 2:21-23 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# In my prayers, am I **subordinate** to God?
-# In my faith, am I **obedient** to Him?
+# In my prayers, do I **submit** to God?
+# In my faith, do I **obey** to Him?
 
 >>>
 + not **telling** God what I want
@@ -436,22 +447,40 @@ James 5:15 (NASB)
 
 >>>
 + **healing** + **forgiveness**
-+ v16 so **pray** for each other
-  + effective prayer of **righteous** man
+
+---
+Therefore, **confess** your sins to one another, <br/>
+and **pray** for one another <br/>
+so that you may be **healed**.
+
+The **effective** prayer of a **righteous** man <br/>
+can **accomplish** much.
+
+<div class="ref">
+James 5:16 (NASB) (p.2/2)
+</div>
+
+>>>
++ but I'm **not** righteous
+  + &rArr; God's **grace**
+  + Christ **died** for my sin
+  + so I may be **deemed** righteous
++ &rArr; my prayer may be **effective**
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# What **grace** has God shown me?
+# What **grace** will I show to others?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-The prayer offered in faith
+The prayer offered in **faith**
 
-will restore the one who is sick, <br/>
-and the Lord will raise him up,
+will restore the one who is **sick**, <br/>
+and the Lord will **raise** him up,
 
-and if he has committed sins, <br/>
-they will be forgiven him.
+and if he has committed **sins**, <br/>
+they will be **forgiven** him.
 
 <div class="ref">
 James 5:15 (NASB) (p.1/2)
@@ -459,12 +488,12 @@ James 5:15 (NASB) (p.1/2)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-Therefore, confess your sins to one another, <br/>
-and pray for one another <br/>
-so that you may be healed.
+Therefore, **confess** your sins to one another, <br/>
+and **pray** for one another <br/>
+so that you may be **healed**.
 
-The effective prayer of a righteous man <br/>
-can accomplish much.
+The **effective** prayer of a **righteous** man <br/>
+can **accomplish** much.
 
 <div class="ref">
 James 5:16 (NASB) (p.2/2)
