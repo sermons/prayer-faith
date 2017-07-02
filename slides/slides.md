@@ -118,6 +118,7 @@ Mark 11:24-25 (ESV) (p.5/5)
 + w/**public**, cleansing temple:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Mei-Christ_Cleansing_the_Temple.jpg" -->
 **My house** shall be called <br/>
 a house of **prayer** for all the nations,
 
@@ -209,19 +210,19 @@ Mark 11:22-23 (ESV)
 
 ---
 ### "God, I believe You will do what **I ask**"
-<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
-### ~"God, I believe You will do what **I ask**"~
-<!-- .element: class="fragment" data-fragment-index="1" -->
-
-vs
-<!-- .element: class="fragment" data-fragment-index="2" -->
-
-### "God, I believe You will do <br/> what **You promised**"
-<!-- .element: class="fragment" data-fragment-index="2" -->
 
 >>>
 + "if I believe **hard enough**, God will do it"
   + &rArr; who is **servant**, who is King?
+
+---
+### ~~"God, I believe You will do what **I ask**"~~
+
+vs
+
+### "God, I believe You will do <br/> what **You promised**"
+
+>>>
 + faith in **God** means:
   + **able** + **willing** do fulfil promises
   + **power** + **character** of God
@@ -350,6 +351,7 @@ James 4:7,8 (ESV) (p.2/2)
 + faith requires **action**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
 Was not **Abraham** our father justified by **works** <br/>
 when he offered up his son **Isaac** on the altar?
 
@@ -363,6 +365,7 @@ James 2:21-22 (ESV) (p.1/2)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
 and the Scripture was fulfilled that says,
 
 “Abraham **believed** God, <br/>
