@@ -3,14 +3,6 @@
 ## Mark 11:12-14, 20-25
 
 >>>
-+ context:
-  + 3rd Passover in Jerusalem
-  + triumphal entry (to public)
-  + curse fig tree
-  + cleanse temple (to Pharisees)
-  + fig tree withered (to disciples)
-  + question authority (John)
-  + vineyard + tenants
 + Mt 6:14 forgive others
   + requests in love, not only faith (Benson)
 + 1 Tim 2:8 men holy hands
@@ -106,9 +98,35 @@ Mark 11:24-25 (ESV) (p.5/5)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" id="outline" -->
 ## Prayer of Faith <span class="ref">(Mark 11)</span>
-1. Point **One** <span class="ref">(v23)</span>
-2. Point **Two** <span class="ref">(v24)</span>
-3. Point **Three** <span class="ref">(v25)</span>
+1. **Power** <span class="ref">(v22-23)</span>
+2. **Faith** <span class="ref">(v24)</span>
+3. **Grace** <span class="ref">(v25)</span>
+
+---
+## Jesus' Third Passover <span class="ref">(Mk 11-12)</span>
++ With the **public**:
+  + *Triumphal* Entry <span class="ref">(11:1-11)</span>
+  + Cleansing of the *Temple* <span class="ref">(11:15-19)</span>
++ With the **disciples**:
+  + Cursing of the *Fig Tree* <span class="ref">(11:12-14,20-25)</span>
++ With the **religious leaders**:
+  + Jesus' *Authority* <span class="ref">(11:27-33)</span>
+  + *Vineyard* and Tenants <span class="ref">(12:1-12)</span>
+  + *Pharisees*, Sadducees, and Scribes <span class="ref">(12:13-38)</span>
+
+>>>
++ Jesus' earthly ministry mostly in **Galilee**
++ Annual appearances in **Jerusalem** were key
+  + 3rd/final **Passover** &rArr; passion
++ Proclaims **authority** over Father's house
+  + kick out wicked **caretakers**
+  + restore true **worship**
++ Today's passage is **small**, intimate w/disciples
+  + But tells same **message** as the more spectacular triumphal entry and showdown w/Pharisees
++ Focus is not power of **my** faith
++ but **Jesus'** authority:
+  + **tear** down and **build** up
+  + **justify**, **forgive**, and **heal** us
 
 ---
 <span class="ref">22</span>
