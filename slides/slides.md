@@ -114,15 +114,71 @@ Mark 11:24-25 (ESV) (p.5/5)
 + Jesus' earthly ministry mostly in **Galilee**
 + Annual appearances in **Jerusalem** were key
   + 3rd/final **Passover** &rArr; passion
-+ Proclaims **authority** over Father's house
++ **deliberate** actions w/public, disciples, leaders:
++ proclaim **authority** over Father's house
   + kick out wicked **caretakers**
   + restore true **worship**
++ w/**public**, cleansing temple:
+
+---
+**My house** shall be called <br/>
+a house of **prayer** for all the nations,
+
+but you have made it a den of **robbers**.
+
+<div class="ref">
+Mark 11:17 (ESV)
+</div>
+
+>>>
++ kick out **robbers**
+  + seeking **own** profit, not God's agenda
+  + **hindering** others from worship
++ establish house of **prayer** for all nations
++ again, when addressing **religious leaders**:
+
+---
+What will the **owner** of the vineyard do?
+
+He will come and **destroy** the tenants <br/>
+and give the vineyard to **others**.
+
+<div class="ref">
+Mark 12:9 (ESV)
+</div>
+
+>>>
++ kick out **wicked caretakers**
+  + **proud**
+  + believed had **power** over owner
++ give inheritance to **others**
+  + heirs **adopted** by grace
+
+---
+Rabbi, look! <br/>
+The **fig tree** that you cursed has **withered**.
+
+>>>
 + Today's passage is **small**, intimate w/disciples
-  + But tells same **message** as the more spectacular triumphal entry and showdown w/Pharisees
+  + not Jesus being a **jerk** to a tree!
++ **deliberate**, to show a **message**:
+  + Creator has **authority**
+  + same as the more spectacular
+  + triumphal entry, showdown w/Pharisees
 + Focus is not power of **my** faith
-+ but **Jesus'** authority:
++ but on **Jesus'** authority:
   + **tear** down and **build** up
   + **justify**, **forgive**, and **heal** us
+
+---
+## Outline
+
+>>>
++ Jesus **teaches** his disciples:
++ the **prayer** that God answers,
+  + that can move **mountains**:
++ firstly, rests on **God's** power
+  + not on the strength of **my** conviction:
 
 ---
 <span class="ref">22</span>
@@ -143,6 +199,8 @@ Mark 11:22-23 (ESV)
   + *"faith in God"*: **Godly** faith
 + *"mountain"*: rabbinic **idiom**
   + all things, nothing impossible
+  + **Creator** has authority over
+    + fig tree, mountain, everything!
   + &rArr; focus in v23 is **power** of Godly faith
 + not **strength** of my faith
   + but **object** of faith
@@ -179,7 +237,7 @@ Mark 11:23 (ESV)
 + **"doubt"** (διακριθῇ, hesitate, judge back/forth)
   + refers to doubting **God**
   + not doubting **ourselves**
-+ When would God **not** answer our prayers?
++ What kind of prayer does God **not** answer?
 
 ---
 If any of you lacks **wisdom**, let him **ask God**, <br/>
@@ -205,19 +263,44 @@ James 1:5-6 (ESV)
 <!-- .slide: data-background="white" -->
 # Have I doubted God's **power** or God's **character** to do what He promised?
 
+>>>
++ God's promises are **big**!
+  + sins though **scarlet**
+    + are made **white** as snow
+  + left us **Counselor** / Advocate, wisdom
+  + Himself building / cleansing **church**
+  + coming **soon** as Righteous **Judge**
++ My requests are so **small**:
+  + grades, career, health, happiness
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 ## Outline
 
+>>>
++ A **prayer** that God answers:
++ Centers on God's **power** to fulfil His promises
++ Comes from **faith** lived out in **obedience**:
+
 ---
 Therefore I tell you,  <br/>
 whatever you **ask** in **prayer**,  <br/>
-**believe** that you have **received** it,  <br/>
+believe that you have received it,  <br/>
 and it will be yours.
 
 <div class="ref">
 Mark 11:24 (ESV)
 </div>
+
+>>>
++ v23 God's **power** to move mountains
++ v24 our faith **rltn** w/God in prayer
++ *"prayer", "ask"*: not **command**
+  + prayer requires **submission**
++ if I do not ack I'm **subordinate** to God
+  + then I'm not **praying**
+  + I'm **telling** God what to do
++ James: 2nd kind of prayer God does **not** answer:
 
 ---
 You do not **have**, because you do not **ask**.
@@ -227,12 +310,34 @@ You ask and do not **receive**, because you ask **wrongly**, <br/>
 to spend it on your **passions**.
 
 <div class="ref">
-James 4:2-3 (ESV)
+James 4:2-3 (ESV) (p.1/2)
 </div>
 
 >>>
++ asking for sth for my **passions**
+  + (ἡδοναῖς, selfish sensual desires, pleasures)
+  + is not really **praying**
 + v4 **adulterers**
-+ v7 &rArr; **submit** to God, He will **draw near**
++ the solution?
+
+---
+**Submit** yourselves therefore to God. ...
+
+<span class="ref">8</span>
+Draw **near** to God, <br/>
+and he will draw **near** to you.
+
+<div class="ref">
+James 4:7,8 (ESV) (p.2/2)
+</div>
+
+>>>
++ To have **faith** in God means
++ to **submit** to Him (subordinate position)
++ **draw near**, seek His face
+  + not just His hand / blessing
++ not just warm fuzzy **feelings**!
++ faith requires **action**:
 
 ---
 Was not **Abraham** our father justified by **works** <br/>
@@ -251,6 +356,16 @@ and he was called a friend of God.
 <div class="ref">
 James 2:21-23 (ESV)
 </div>
+
+>>>
++ God's **promise** (Gen 15): **believed** God
++ promise **fulfilled** (Gen 21)
++ but faith not **complete** until Moriah (Gen 22)
++ this is **real** faith!
++ the prayer of **faith** is willing to
+  + **offer** all we hold dear
+  + on the **altar** to God
+  + in **obedience** to Him
 
 ---
 <!-- .slide: data-background="white" -->
