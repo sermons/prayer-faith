@@ -280,7 +280,9 @@ James 1:5-6 (ESV)
 >>>
 + A **prayer** that God answers:
 + Centers on God's **power** to fulfil His promises
-+ Comes from **faith** lived out in **obedience**:
++ Comes from **faith** in action:
+  + **subordinate** to God, and
+  + **obedient** to His command
 
 ---
 Therefore I tell you,  <br/>
@@ -369,11 +371,25 @@ James 2:21-23 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# In my prayers, am I **subordinate** to God?
+# In my faith, am I **obedient** to Him?
+
+>>>
++ not **telling** God what I want
+  + for own **pleasures**
++ but asking from position of **weakness**
++ **faith**: not just assent or conviction
+  + **trust** + **obey**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 ## Outline
+
+>>>
++ Prayer that God accepts:
++ Centers on God's **power**, not my conviction
++ Comes from **faith** lived out in obedience
++ Is contingent on me showing **grace** to others:
 
 ---
 And whenever you stand praying, **forgive**,  <br/>
