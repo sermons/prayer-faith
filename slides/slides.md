@@ -7,7 +7,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What kind of **faith** moves **mountains**?
+# What kind of **prayer** does God **answer**?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
@@ -134,23 +134,49 @@ Truly, I say to you,  <br/>
 whoever says to this **mountain**,  <br/>
 Be **taken up** and **thrown** into the sea,’
 
-and does not **doubt** in his heart,  <br/>
-but **believes** that what he says  <br/>
-will come to pass, it will be **done** for him.
-
 <div class="ref">
 Mark 11:22-23 (ESV)
 </div>
 
 >>>
++ Primary **imperative** is v22:
+  + *"faith in God"*: **Godly** faith
 + *"mountain"*: rabbinic **idiom**
   + all things, nothing impossible
   + &rArr; focus in v23 is **power** of Godly faith
 + not **strength** of my faith
   + but **object** of faith
-+ not "God, I believe You will do what **I ask**"
-  + but "God, I believe You will do what **You promised**"
-+ then **"doubt"** (διακριθῇ, hesitate, judge back/forth)
++ focusing on strength of **own** conviction is like saying:
+
+---
+### "God, I believe You will do what **I ask**"
+<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
+
+vs
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+### "God, I believe You will do what **You promised**"
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+>>>
++ "if I believe **hard enough**, God will do it"
+  + &rArr; who is **servant**, who is King?
++ faith in **God** means:
+  + **able** + **willing** do fulfil promises
+  + **power** + **character** of God
++ so when v23 says:
+
+---
+and does not **doubt** in his heart,  <br/>
+but **believes** that what he says  <br/>
+will come to pass, it will be **done** for him.
+
+<div class="ref">
+Mark 11:23 (ESV)
+</div>
+
+>>>
++ **"doubt"** (διακριθῇ, hesitate, judge back/forth)
   + refers to doubting **God**
   + not doubting **ourselves**
 + When would God **not** answer our prayers?
@@ -172,8 +198,8 @@ James 1:5-6 (ESV)
 >>>
 + v7 should **not expect** to receive anything from God
   + **double-minded**, unstable
-+ doubting God's **character**
-  + generosity + wisdom
++ doubting God's **power** **character**
+  + **wisdom** + **generosity**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -192,6 +218,21 @@ and it will be yours.
 <div class="ref">
 Mark 11:24 (ESV)
 </div>
+
+---
+You do not **have**, because you do not **ask**.
+
+<span class="ref">3</span>
+You ask and do not **receive**, because you ask **wrongly**, <br/>
+to spend it on your **passions**.
+
+<div class="ref">
+James 4:2-3 (ESV)
+</div>
+
+>>>
++ v4 **adulterers**
++ v7 &rArr; **submit** to God, He will **draw near**
 
 ---
 Was not **Abraham** our father justified by **works** <br/>
@@ -231,7 +272,9 @@ Mark 11:25 (ESV)
 </div>
 
 >>>
-+ requests in love, not only faith (Benson)
++ 1st imperative (v23): Have **faith** in God
++ 2nd imperative (v25): **forgive**
++ requests in **love**, not only faith (Benson)
 
 ---
 Which is easier, to say to the paralytic,  <br/>
