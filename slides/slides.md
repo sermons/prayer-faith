@@ -223,18 +223,18 @@ Mark 11:22-23 (ESV)
 + focusing on strength of **own** conviction is like saying:
 
 ---
-### "God, I believe You will do what **I ask**"
+## "God, I believe You will do what **I ask**"
 
 >>>
 + "if I believe **hard enough**, God will do"
   + &rArr; who is **servant**, who is King?
 
 ---
-### ~~"God, I believe You will do what **I ask**"~~
+## ~~"God, I believe You will do what **I ask**"~~
 
 vs
 
-### "God, I believe You will do <br/> what **You promised**"
+## "God, I believe You will do <br/> what **You promised**"
 
 >>>
 + faith in **God** means:
