@@ -19,7 +19,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Does **faith** really move **mountains**?
+# What kind of **faith** moves **mountains**?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
