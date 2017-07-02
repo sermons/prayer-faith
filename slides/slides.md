@@ -94,9 +94,9 @@ Mark 11:24-25 (ESV) (p.5/5)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" id="outline" -->
 ## Prayer of Faith <span class="ref">(Mark 11)</span>
-1. **Power** <span class="ref">(v22-23)</span>
-2. **Faith** <span class="ref">(v24)</span>
-3. **Grace** <span class="ref">(v25)</span>
+1. **Power** of God <span class="ref">(v22-23)</span>
+2. **Faith** in Action <span class="ref">(v24)</span>
+3. **Grace** Received, Grace Given <span class="ref">(v25)</span>
 
 ---
 ## Jesus' Third Passover <span class="ref">(Mk 11-12)</span>
@@ -143,7 +143,17 @@ Mark 11:22-23 (ESV)
 </div>
 
 >>>
-+ Rom 4:20 waver in unbelief
++ *"mountain"*: rabbinic **idiom**
+  + all things, nothing impossible
+  + &rArr; focus in v23 is **power** of Godly faith
++ not **strength** of my faith
+  + but **object** of faith
++ not "God, I believe You will do what **I ask**"
+  + but "God, I believe You will do what **You promised**"
++ then **"doubt"** (διακριθῇ, hesitate, judge back/forth)
+  + refers to doubting **God**
+  + not doubting **ourselves**
++ When would God **not** answer our prayers?
 
 ---
 If any of you lacks **wisdom**, let him **ask God**, <br/>
@@ -159,9 +169,15 @@ that is driven and **tossed** by the wind.
 James 1:5-6 (ESV)
 </div>
 
+>>>
++ v7 should **not expect** to receive anything from God
+  + **double-minded**, unstable
++ doubting God's **character**
+  + generosity + wisdom
+
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Have I doubted God's **power** or God's **character** to do what He promised?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
@@ -175,6 +191,24 @@ and it will be yours.
 
 <div class="ref">
 Mark 11:24 (ESV)
+</div>
+
+---
+Was not **Abraham** our father justified by **works** <br/>
+when he offered up his son **Isaac** on the altar?
+
+<span class="ref">22</span>
+You see that **faith** was **active** along with his works, <br/>
+and faith was **completed** by his works;
+
+<span class="ref">23</span>
+and the Scripture was fulfilled that says, <br/>
+“Abraham **believed** God, <br/>
+and it was counted to him as **righteousness**” -- <br/>
+and he was called a friend of God.
+
+<div class="ref">
+James 2:21-23 (ESV)
 </div>
 
 ---
