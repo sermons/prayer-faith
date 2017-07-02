@@ -3,11 +3,7 @@
 ## Mark 11:12-14, 20-25
 
 >>>
-+ Mt 6:14 forgive others
-  + requests in love, not only faith (Benson)
 + 1 Tim 2:8 men holy hands
-+ paralytic: which is easier
-  + forgiveness || healing
 
 ---
 <!-- .slide: data-background="white" -->
@@ -199,6 +195,41 @@ may **forgive** you your trespasses.”
 <div class="ref">
 Mark 11:25 (ESV)
 </div>
+
+>>>
++ requests in love, not only faith (Benson)
+
+---
+Which is easier, to say to the paralytic,  <br/>
+‘Your sins are **forgiven**’;
+
+or to say, <br/>
+‘Get up, and pick up your pallet and **walk**’?
+
+<div class="ref">
+Mark 2:9 (NASB)
+</div>
+
+>>>
++ v10-12: **heal** in order to show **authority** to forgive sins
+
+---
+The prayer offered in **faith**
+
+will restore the one who is **sick**, <br/>
+and the Lord will **raise** him up,
+
+and if he has committed **sins**, <br/>
+they will be **forgiven** him.
+
+<div class="ref">
+James 5:15 (NASB)
+</div>
+
+>>>
++ **healing** + **forgiveness**
++ v16 so **pray** for each other
+  + effective prayer of **righteous** man
 
 ---
 <!-- .slide: data-background="white" -->
