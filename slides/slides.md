@@ -418,7 +418,7 @@ James 2:23 (ESV) (p.3/3)
 ---
 <!-- .slide: data-background="white" -->
 # In my prayers, do I **submit** to God?
-# In my faith, do I **obey** to Him?
+# In my faith, do I **obey** Him?
 
 >>>
 + not **telling** God what I want
