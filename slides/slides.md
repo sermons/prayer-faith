@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 # The Prayer of Faith
 ## Mark 11:12-14, 20-25
 
@@ -6,44 +6,41 @@
 <!-- .slide: data-background="white" -->
 # What kind of **prayer** does God answer?
 
-[###](#/outline)
-<!-- .element: style="color:rgba(0,0,0,0.2)" -->
+[###](#/outline "secret")
 
 ---
-<span class="ref">12</span>
+[12](# "ref")
 The next day as they were leaving Bethany, <br/>
 Jesus was hungry.
 
-<span class="ref">13</span>
+[13](# "ref")
 Seeing in the distance a fig tree in leaf, <br/>
 he went to find out if it had any fruit.
 
-<div class="ref">
-Mark 11:12-13 (ESV) (p.1/5)
-</div>
+<%= bible('mk11.12-13', 'Mark 11:12-13 (ESV) (p.1/5)', 'ESV') %>
 
 ---
 When he reached it,  <br/>
 he found nothing but leaves, <br/>
 because it was not the season for figs.
 
-<span class="ref">14</span>
+[14](# "ref")
 Then he said to the tree,  <br/>
 “May no one ever eat fruit from you again.”
 
 And his disciples heard him say it.
 
 <div class="ref">
-Mark 11:12-13 (ESV) (p.2/5)
+Mark 11:13-14 (ESV) (p.2/5)
 </div>
 
 ---
-<span class="ref">20</span>
+[20](# "ref")
 As they passed by in the morning, <br/>
 they saw the fig tree <br/>
 withered away to its roots.
 
-<span class="ref">21</span>
+[21](# "ref")
 And Peter remembered <br/>
 and said to him, “Rabbi, look! <br/>
 The fig tree that you cursed has withered.”
@@ -53,11 +50,11 @@ Mark 11:20-21 (ESV) (p.3/5)
 </div>
 
 ---
-<span class="ref">22</span>
+[22](# "ref")
 And Jesus answered them, <br/>
 “Have faith in God.
 
-<span class="ref">23</span>
+[23](# "ref")
 Truly, I say to you,  <br/>
 whoever says to this mountain,  <br/>
 Be taken up and thrown into the sea,’
@@ -71,13 +68,13 @@ Mark 11:22-23 (ESV) (p.4/5)
 </div>
 
 ---
-<span class="ref">24</span>
+[24](# "ref")
 Therefore I tell you,  <br/>
 whatever you ask in prayer,  <br/>
 believe that you have received it,  <br/>
 and it will be yours.
 
-<span class="ref">25</span>
+[25](# "ref")
 And whenever you stand praying, forgive,  <br/>
 if you have anything against anyone,
 
@@ -89,11 +86,11 @@ Mark 11:24-25 (ESV) (p.5/5)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" id="outline" -->
-## Prayer of Faith <span class="ref">(Mark 11)</span>
-1. **Power** of God <span class="ref">(v22-23)</span>
-2. **Faith** in Action <span class="ref">(v24)</span>
-3. **Grace** Received, Grace Given <span class="ref">(v25)</span>
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> id="outline" -->
+## Prayer of Faith <%= bible('(Mark 11)') %>
+1. **Power** of God <%= bible('mk11.22-23', '(v22-23)') %>
+2. **Faith** in Action <%= bible('mk11.24', '(v24)') %>
+3. **Grace** Received, Grace Given <%= bible('mk11.25', '(v25)') %>
 
 >>>
 + Centers on God's **power**, not my conviction
@@ -101,16 +98,16 @@ Mark 11:24-25 (ESV) (p.5/5)
 + Is contingent on me showing **grace** to others:
 
 ---
-## Jesus' 3rd Passover <span class="ref">(Mk 11-12)</span>
+## Jesus' 3rd Passover [(Mark 11-12)](# "ref")
 + With the **public**:
-  + *Triumphal* Entry <span class="ref">(11:1-11)</span>
-  + Cleansing of the *Temple* <span class="ref">(11:15-19)</span>
+  + *Triumphal* Entry <%= bible('(Mk 11:1-11)') %>
+  + Cleansing of the *Temple* <%= bible('(Mk 11:15-19)') %>
 + With the **disciples**:
-  + Cursing of the *Fig Tree* <span class="ref">(11:12-14,20-25)</span>
+  + Cursing of the *Fig Tree* <%= bible('(Mk 11:12-14,20-25)') %>
 + With the **religious leaders**:
-  + Jesus' *Authority* <span class="ref">(11:27-33)</span>
-  + *Vineyard* and Tenants <span class="ref">(12:1-12)</span>
-  + *Pharisees*, Sadducees, and Scribes <span class="ref">(12:13-38)</span>
+  + Jesus' *Authority* <%= bible('(Mk 11:27-33)') %>
+  + *Vineyard* and Tenants <%= bible('(Mk 12:1-12)') %>
+  + *Pharisees*, Sadducees, and Scribes <%= bible('(Mk 12:13-38)') %>
 
 >>>
 + Jesus' ministry mostly **Galilee**
@@ -124,7 +121,7 @@ Mark 11:24-25 (ESV) (p.5/5)
 + w/**public**, cleansing temple:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Mei-Christ_Cleansing_the_Temple.jpg" -->
+<!-- .slide: <%= bg("Mei-Christ_Cleansing_the_Temple.jpg") %> -->
 **My house** shall be called <br/>
 a house of **prayer** for all the nations,
 
@@ -143,7 +140,7 @@ Mark 11:17 (ESV)
 + again, with **religious leaders**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-HNx4QLRgy2k-rain_plant.jpg" -->
+<!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
 What will the **owner** of the vineyard do?
 
 He will come and **destroy** the tenants <br/>
@@ -161,7 +158,7 @@ Mark 12:9 (ESV)
   + heirs **adopted** by grace
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 Rabbi, look! <br/>
 The **fig tree** that you cursed has **withered**.
 
@@ -179,11 +176,11 @@ Mark 11:21 (ESV)
   + showdown w/Pharisees
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-## Prayer of Faith <span class="ref">(Mark 11)</span>
-1. **Power of God** <span class="ref">(v22-23)</span>
-2. Faith in Action <span class="ref">(v24)</span>
-3. Grace Received, Grace Given <span class="ref">(v25)</span>
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
+## Prayer of Faith <%= bible('(Mark 11)') %>
+1. **Power of God** <%= bible('mk11.22-23', '(v22-23)') %>
+2. Faith in Action <%= bible('mk11.24', '(v24)') %>
+3. Grace Received, Grace Given <%= bible('mk11.25', '(v25)') %>
 
 >>>
 + Jesus **teaches** his disciples:
@@ -196,12 +193,12 @@ Mark 11:21 (ESV)
   + **justify**, **forgive**, and **heal** us
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DLwUVlzrP0Q-waves_rocks.jpg" -->
-<span class="ref">22</span>
+<!-- .slide: <%= bg("unsplash-DLwUVlzrP0Q-waves_rocks.jpg") %> -->
+[22](# "ref")
 And Jesus answered them, <br/>
 “Have **faith** in **God**.
 
-<span class="ref">23</span>
+[23](# "ref")
 Truly, I say to you,  <br/>
 whoever says to this **mountain**,  <br/>
 Be **taken up** and **thrown** into the sea,’
@@ -243,7 +240,7 @@ vs
 + so when v23 says:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DLwUVlzrP0Q-waves_rocks.jpg" -->
+<!-- .slide: <%= bg("unsplash-DLwUVlzrP0Q-waves_rocks.jpg") %> -->
 and does not **doubt** in his heart,  <br/>
 but **believes** that what he says  <br/>
 will come to pass, it will be **done** for him.
@@ -259,12 +256,13 @@ Mark 11:23 (ESV)
 + What kind of prayer does God **not** answer?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
+<!-- .slide: <%= bg("Hans-wave-384385.jpg") %> -->
+[5](# "ref")
 If any of you lacks **wisdom**, let him **ask God**, <br/>
 who gives **generously** to all without reproach, <br/>
 and it will be given him.
 
-<span class="ref">6</span>
+[6](# "ref")
 But let him ask in **faith**, with **no doubting**, <br/>
 for the one who doubts is like a **wave** of the sea <br/>
 that is driven and **tossed** by the wind.
@@ -294,11 +292,11 @@ James 1:5-6 (ESV)
   + grades, career, health, happiness
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-## Prayer of Faith <span class="ref">(Mark 11)</span>
-1. Power of God <span class="ref">(v22-23)</span>
-2. **Faith in Action** <span class="ref">(v24)</span>
-3. Grace Received, Grace Given <span class="ref">(v25)</span>
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
+## Prayer of Faith <%= bible('(Mark 11)') %>
+1. Power of God <%= bible('mk11.22-23', '(v22-23)') %>
+2. **Faith in Action** <%= bible('mk11.24', '(v24)') %>
+3. Grace Received, Grace Given <%= bible('mk11.25', '(v25)') %>
 
 >>>
 + A **prayer** that God answers:
@@ -309,7 +307,7 @@ James 1:5-6 (ESV)
   + **obedient** to His command
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 Therefore I tell you,  <br/>
 whatever you **ask** in **prayer**,  <br/>
 believe that you have received it,  <br/>
@@ -330,9 +328,9 @@ Mark 11:24 (ESV)
 + Jam: 2nd prayer God **doesn't** answer:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
+<!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
 You do not **have**, because you do not **ask**. <br/>
-<span class="ref">3</span>
+[3](# "ref")
 You ask and do not **receive**,
 
 because you ask **wrongly**, <br/>
@@ -350,10 +348,11 @@ James 4:2-3 (ESV) (p.1/2)
 + the solution?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
+<!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
+[7](# "ref")
 **Submit** yourselves therefore to God. ...
 
-<span class="ref">8</span>
+[8](# "ref")
 Draw **near** to God, <br/>
 and he will draw **near** to you.
 
@@ -371,7 +370,8 @@ James 4:7,8 (ESV) (p.2/2)
 + faith requires **action**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
+<!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
+[21](# "ref")
 Was not **Abraham** our father justified by **works** <br/>
 when he offered up his son **Isaac** on the altar?
 
@@ -380,9 +380,8 @@ James 2:21 (ESV) (p.1/3)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
-
-<span class="ref">22</span>
+<!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
+[22](# "ref")
 You see that **faith** was **active** <br/>
 along with his works,
 
@@ -395,7 +394,8 @@ James 2:22 (ESV) (p.2/3)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
+<!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
+[23](# "ref")
 “Abraham **believed** God, <br/>
 and it was counted to him as **righteousness**” -- <br/>
 and he was called a **friend** of God.
@@ -428,11 +428,11 @@ James 2:23 (ESV) (p.3/3)
   + **trust** + **obey**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-## Prayer of Faith <span class="ref">(Mark 11)</span>
-1. Power of God <span class="ref">(v22-23)</span>
-2. Faith in Action <span class="ref">(v24)</span>
-3. **Grace Received, Grace Given** <span class="ref">(v25)</span>
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
+## Prayer of Faith <%= bible('(Mark 11)') %>
+1. Power of God <%= bible('mk11.22-23', '(v22-23)') %>
+2. Faith in Action <%= bible('mk11.24', '(v24)') %>
+3. **Grace Received, Grace Given** <%= bible('mk11.25', '(v25)') %>
 
 >>>
 + Prayer that God accepts:
@@ -444,7 +444,7 @@ James 2:23 (ESV) (p.3/3)
   + showing **grace** to others:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iQWvVYMtv1k-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 And whenever you stand praying, **forgive**,  <br/>
 if you have anything **against** anyone,
 
@@ -464,7 +464,7 @@ Mark 11:25 (ESV)
 + e.g., pray for **healing**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Paola-Beggar_with_Lyra.jpg" -->
+<!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
 Which is easier, to say to the paralytic,  <br/>
 ‘Your sins are **forgiven**’;
 
@@ -485,7 +485,7 @@ Mark 2:9 (NASB)
   + and show **mercy**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 The prayer offered in **faith**
 
 will restore the one who is **sick**, <br/>
@@ -505,7 +505,7 @@ James 5:15 (NASB) (p.1/2)
   + to both **heal** + **forgive**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Therefore, **confess** your sins to one another, <br/>
 and **pray** for one another <br/>
 so that you may be **healed**.
@@ -538,7 +538,7 @@ James 5:16 (NASB) (p.2/2)
 + &rArr; show the same to others?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 The prayer offered in **faith**
 
 will restore the one who is **sick**, <br/>
@@ -552,7 +552,7 @@ James 5:15 (NASB) (p.1/2)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 Therefore, **confess** your sins to one another, <br/>
 and **pray** for one another <br/>
 so that you may be **healed**.
@@ -565,4 +565,4 @@ James 5:16 (NASB) (p.2/2)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" class="empty" -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="empty" -->
