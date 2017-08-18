@@ -9,7 +9,6 @@
 [###](#/outline "secret")
 
 ---
-[12](# "ref")
 The next day as they were leaving Bethany, <br/>
 Jesus was hungry.
 
@@ -17,7 +16,7 @@ Jesus was hungry.
 Seeing in the distance a fig tree in leaf, <br/>
 he went to find out if it had any fruit.
 
-<%= bible('mk11.12-13', 'Mark 11:12-13 (ESV) (p.1/5)', 'ESV') %>
+[Mark 11:12-13 (ESV) (p.1/5)](# "ref")
 
 ---
 When he reached it,  <br/>
@@ -30,9 +29,7 @@ Then he said to the tree,  <br/>
 
 And his disciples heard him say it.
 
-<div class="ref">
-Mark 11:13-14 (ESV) (p.2/5)
-</div>
+[Mark 11:13-14 (ESV) (p.2/5)](# "ref")
 
 ---
 [20](# "ref")
@@ -45,9 +42,7 @@ And Peter remembered <br/>
 and said to him, “Rabbi, look! <br/>
 The fig tree that you cursed has withered.”
 
-<div class="ref">
-Mark 11:20-21 (ESV) (p.3/5)
-</div>
+[Mark 11:20-21 (ESV) (p.3/5)](# "ref")
 
 ---
 [22](# "ref")
@@ -63,9 +58,7 @@ and does not doubt in his heart,  <br/>
 but believes that what he says  <br/>
 will come to pass, it will be done for him.
 
-<div class="ref">
-Mark 11:22-23 (ESV) (p.4/5)
-</div>
+[Mark 11:22-23 (ESV) (p.4/5)](# "ref")
 
 ---
 [24](# "ref")
@@ -81,9 +74,7 @@ if you have anything against anyone,
 so that your Father also who is in heaven  <br/>
 may forgive you your trespasses.”
 
-<div class="ref">
-Mark 11:24-25 (ESV) (p.5/5)
-</div>
+[Mark 11:24-25 (ESV) (p.5/5)](# "ref")
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> id="outline" -->
@@ -98,7 +89,7 @@ Mark 11:24-25 (ESV) (p.5/5)
 + Is contingent on me showing **grace** to others:
 
 ---
-## Jesus' 3rd Passover [(Mark 11-12)](# "ref")
+## Jesus' 3rd Passover [(Mk11-12)](# "ref")
 + With the **public**:
   + *Triumphal* Entry <%= bible('(Mk 11:1-11)') %>
   + Cleansing of the *Temple* <%= bible('(Mk 11:15-19)') %>
@@ -127,9 +118,7 @@ a house of **prayer** for all the nations,
 
 but you have made it a den of **robbers**.
 
-<div class="ref">
-Mark 11:17 (ESV)
-</div>
+[Mark 11:17 (ESV)](# "ref")
 
 >>>
 + kick out **robbers**
@@ -146,9 +135,7 @@ What will the **owner** of the vineyard do?
 He will come and **destroy** the tenants <br/>
 and give the vineyard to **others**.
 
-<div class="ref">
-Mark 12:9 (ESV)
-</div>
+[Mark 12:9 (ESV)](# "ref")
 
 >>>
 + kick out **wicked caretakers**
@@ -162,9 +149,7 @@ Mark 12:9 (ESV)
 Rabbi, look! <br/>
 The **fig tree** that you cursed has **withered**.
 
-<div class="ref">
-Mark 11:21 (ESV)
-</div>
+[Mark 11:21 (ESV)](# "ref")
 
 >>>
 + Today: **small**, intimate w/discip
@@ -194,7 +179,6 @@ Mark 11:21 (ESV)
 
 ---
 <!-- .slide: <%= bg("unsplash-DLwUVlzrP0Q-waves_rocks.jpg") %> -->
-[22](# "ref")
 And Jesus answered them, <br/>
 “Have **faith** in **God**.
 
@@ -203,9 +187,7 @@ Truly, I say to you,  <br/>
 whoever says to this **mountain**,  <br/>
 Be **taken up** and **thrown** into the sea,’
 
-<div class="ref">
-Mark 11:22-23 (ESV)
-</div>
+[Mark 11:22-23 (ESV)](# "ref")
 
 >>>
 + Primary **imperative** is v22:
@@ -245,9 +227,7 @@ and does not **doubt** in his heart,  <br/>
 but **believes** that what he says  <br/>
 will come to pass, it will be **done** for him.
 
-<div class="ref">
-Mark 11:23 (ESV)
-</div>
+[Mark 11:23 (ESV)](# "ref")
 
 >>>
 + **"doubt"** (διακριθῇ, hesitate, judge back/forth)
@@ -257,7 +237,6 @@ Mark 11:23 (ESV)
 
 ---
 <!-- .slide: <%= bg("Hans-wave-384385.jpg") %> -->
-[5](# "ref")
 If any of you lacks **wisdom**, let him **ask God**, <br/>
 who gives **generously** to all without reproach, <br/>
 and it will be given him.
@@ -267,9 +246,7 @@ But let him ask in **faith**, with **no doubting**, <br/>
 for the one who doubts is like a **wave** of the sea <br/>
 that is driven and **tossed** by the wind.
 
-<div class="ref">
-James 1:5-6 (ESV)
-</div>
+[James 1:5-6 (ESV)](# "ref")
 
 >>>
 + v7 should **not expect** to receive anything from God
@@ -313,9 +290,7 @@ whatever you **ask** in **prayer**,  <br/>
 believe that you have received it,  <br/>
 and it will be yours.
 
-<div class="ref">
-Mark 11:24 (ESV)
-</div>
+[Mark 11:24 (ESV)](# "ref")
 
 >>>
 + v23 God's **power** to move mountains
@@ -336,9 +311,7 @@ You ask and do not **receive**,
 because you ask **wrongly**, <br/>
 to spend it on your **passions**.
 
-<div class="ref">
-James 4:2-3 (ESV) (p.1/2)
-</div>
+[James 4:2-3 (ESV) (p.1/2)](# "ref")
 
 >>>
 + asking for sth for my **passions**
@@ -349,16 +322,13 @@ James 4:2-3 (ESV) (p.1/2)
 
 ---
 <!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
-[7](# "ref")
 **Submit** yourselves therefore to God. ...
 
 [8](# "ref")
 Draw **near** to God, <br/>
 and he will draw **near** to you.
 
-<div class="ref">
-James 4:7,8 (ESV) (p.2/2)
-</div>
+[James 4:7,8 (ESV) (p.2/2)](# "ref")
 
 >>>
 + To have **faith** in God means
@@ -371,17 +341,13 @@ James 4:7,8 (ESV) (p.2/2)
 
 ---
 <!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
-[21](# "ref")
 Was not **Abraham** our father justified by **works** <br/>
 when he offered up his son **Isaac** on the altar?
 
-<div class="ref">
-James 2:21 (ESV) (p.1/3)
-</div>
+[James 2:21 (ESV) (p.1/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
-[22](# "ref")
 You see that **faith** was **active** <br/>
 along with his works,
 
@@ -389,20 +355,15 @@ and faith was **completed** by his works;
 
 and the Scripture was fulfilled that says,
 
-<div class="ref">
-James 2:22 (ESV) (p.2/3)
-</div>
+[James 2:22 (ESV) (p.2/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
-[23](# "ref")
 “Abraham **believed** God, <br/>
 and it was counted to him as **righteousness**” -- <br/>
 and he was called a **friend** of God.
 
-<div class="ref">
-James 2:23 (ESV) (p.3/3)
-</div>
+[James 2:23 (ESV) (p.3/3)](# "ref")
 
 >>>
 + God's **promise** (Gen 15): **believed** God
@@ -451,9 +412,7 @@ if you have anything **against** anyone,
 so that your **Father** also who is in heaven  <br/>
 may **forgive** you your trespasses.”
 
-<div class="ref">
-Mark 11:25 (ESV)
-</div>
+[Mark 11:25 (ESV)](# "ref")
 
 >>>
 + 1st imperative (v23): **faith** in God
@@ -471,9 +430,7 @@ Which is easier, to say to the paralytic,  <br/>
 or to say, <br/>
 ‘**Get up**, and pick up your pallet and **walk**’?
 
-<div class="ref">
-Mark 2:9 (NASB)
-</div>
+[Mark 2:9 (ESV)](# "ref")
 
 >>>
 + **forgiveness** || **healing**:
@@ -494,9 +451,7 @@ and the Lord will **raise** him up,
 and if he has committed **sins**, <br/>
 they will be **forgiven** him.
 
-<div class="ref">
-James 5:15 (NASB) (p.1/2)
-</div>
+[James 5:15 (NASB) (p.1/2)](# "ref")
 
 >>>
 + not that all **illness** is
@@ -513,9 +468,7 @@ so that you may be **healed**.
 The **effective** prayer of a **righteous** man <br/>
 can **accomplish** much.
 
-<div class="ref">
-James 5:16 (NASB) (p.2/2)
-</div>
+[James 5:16 (NASB) (p.2/2)](# "ref")
 
 >>>
 + but I'm **not** righteous!
@@ -547,9 +500,7 @@ and the Lord will **raise** him up,
 and if he has committed **sins**, <br/>
 they will be **forgiven** him.
 
-<div class="ref">
-James 5:15 (NASB) (p.1/2)
-</div>
+[James 5:15 (NASB) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
@@ -560,9 +511,7 @@ so that you may be **healed**.
 The **effective** prayer of a **righteous** man <br/>
 can **accomplish** much.
 
-<div class="ref">
-James 5:16 (NASB) (p.2/2)
-</div>
+[James 5:16 (NASB) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="empty" -->
