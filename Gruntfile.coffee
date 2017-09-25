@@ -20,14 +20,11 @@ module.exports = (grunt) ->
       qr:
         src: 'https://zxing.org/w/chart?cht=qr&chs=350x350&chld=M&choe=UTF-8&chl=https%3A%2F%2F<%= pkg.config.pretty_url %>'
         dest: 'static/img/<%= pkg.shortname %>-qr.png'
-      phantom:
-        src: 'https://github.com/astefanutti/decktape/releases/download/v1.0.0/phantomjs-linux-x86-64'
-        dest: 'phantomjs'
 
     exec:
-      phantom: 'chmod +x phantomjs'
-      print: './phantomjs decktape/decktape.js -s 1024x768 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf'
-      thumbnail: './phantomjs decktape/decktape.js -s 1024x768 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/thumbnail.jpg'
+      print: 'decktape -s 1024x768 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf; true'
+      thumbnail: 'decktape -s 1024x768 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/thumbnail.jpg; true'
+      inline: 'echo inliner http://localhost:9000/ > inline.html'
 
     copy:
       index:
@@ -42,10 +39,16 @@ module.exports = (grunt) ->
           src: [
             'static/**'
             'index.html'
+            'inline.html'
             'CNAME'
             '.nojekyll'
           ]
           dest: 'dist/'
+        },{
+          expand: true
+          cwd: 'node_modules'
+          src: 'reveal.js/**'
+          dest: 'dist/lib/'
         },{
           src: 'static/img/favicon.ico'
           dest: 'dist/'
@@ -64,12 +67,6 @@ module.exports = (grunt) ->
         options:
           remote: 'git@github.com:<%= pkg.repository %>'
           branch: 'gh-pages'
-
-    gitclone:
-      decktape:
-        options:
-          repository: 'https://github.com/astefanutti/decktape'
-          depth: 1
 
   # Generated grunt vars
   grunt.config.merge
@@ -106,15 +103,12 @@ module.exports = (grunt) ->
 
   grunt.registerTask 'install',
     '*Install* dependencies', [
-      'curl:phantom'
-      'exec:phantom'
-      'gitclone:decktape'
     ]
 
   grunt.registerTask 'pdf',
-    'Render a **PDF** copy of the presentation (using PhantomJS)', [
+    'Render a **PDF** copy of the presentation (using decktape)', [
       'serve'
-      'exec:print'
+#      'exec:print'
       'exec:thumbnail'
     ]
 
@@ -122,6 +116,7 @@ module.exports = (grunt) ->
     '*Test* rendering to PDF', [
       'coffeelint'
       'pdf'
+      'exec:inline'
     ]
 
   grunt.registerTask 'dist',
