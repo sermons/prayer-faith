@@ -356,7 +356,7 @@ and he will draw **near** to you.
 + faith requires **action**:
 
 ---
-<!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
+<!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
 Was not **Abraham** our father justified by **works** <br/>
 when he offered up his son **Isaac** on the altar?
 
@@ -365,7 +365,7 @@ when he offered up his son **Isaac** on the altar?
 [img: Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
 
 ---
-<!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
+<!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
 You see that **faith** was **active** <br/>
 along with his works,
 
@@ -376,7 +376,7 @@ and the Scripture was fulfilled that says,
 [James 2:22 (ESV) (p.2/3)](# "ref")
 
 ---
-<!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
+<!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
 “Abraham **believed** God, <br/>
 and it was counted to him as **righteousness**” -- <br/>
 and he was called a **friend** of God.
