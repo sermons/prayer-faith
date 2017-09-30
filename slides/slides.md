@@ -2,6 +2,8 @@
 # The Prayer of Faith
 ## Mark 11:12-14, 20-25
 
+[(img: &copy; 2010 bigbirdz @Flickr, CC-BY 2.0)](https://www.flickr.com/photos/bigbirdz/5024081279/ "caption")
+
 ---
 <!-- .slide: data-background="white" -->
 # What kind of **prayer** does God answer?
@@ -120,6 +122,8 @@ but you have made it a den of **robbers**.
 
 [Mark 11:17 (ESV)](# "ref")
 
+[(img: Bernardino Mei, "Christ Cleansing the Temple", ~1655)](http://www.getty.edu/art/collection/objects/542/bernardino-mei-christ-cleansing-the-temple-italian-about-1655/ "caption")
+
 >>>
 + kick out **robbers**
   + seeking **own** profit
@@ -137,6 +141,8 @@ and give the vineyard to **others**.
 
 [Mark 12:9 (ESV)](# "ref")
 
+[(img: Mike Kotsch, CC0)](https://unsplash.com/photos/HNx4QLRgy2k "caption")
+
 >>>
 + kick out **wicked caretakers**
   + **proud**
@@ -150,6 +156,8 @@ Rabbi, look! <br/>
 The **fig tree** that you cursed has **withered**.
 
 [Mark 11:21 (ESV)](# "ref")
+
+[(img: Michael Coury, Venray, Netherlands. CC0)](https://unsplash.com/photos/DiKkJKvDi64 "caption")
 
 >>>
 + Today: **small**, intimate w/discip
@@ -188,6 +196,8 @@ whoever says to this **mountain**,  <br/>
 Be **taken up** and **thrown** into the sea,’
 
 [Mark 11:22-23 (ESV)](# "ref")
+
+[(img: Dan Stark, Victor Harbour, Australia. CC0)](https://unsplash.com/photos/DLwUVlzrP0Q "caption")
 
 >>>
 + Primary **imperative** is v22:
@@ -248,6 +258,8 @@ that is driven and **tossed** by the wind.
 
 [James 1:5-6 (ESV)](# "ref")
 
+[(img: Hans Braxmeier. CC0)](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/ "caption")
+
 >>>
 + v7 should **not expect** to receive anything from God
   + **double-minded**, unstable
@@ -292,6 +304,8 @@ and it will be yours.
 
 [Mark 11:24 (ESV)](# "ref")
 
+[(img: Ben White, CC0)](https://unsplash.com/photos/qYanN54gIrI "caption")
+
 >>>
 + v23 God's **power** to move mountains
 + v24 our faith **relatn** w/God in prayer
@@ -312,6 +326,8 @@ because you ask **wrongly**, <br/>
 to spend it on your **passions**.
 
 [James 4:2-3 (ESV) (p.1/2)](# "ref")
+
+[(img: Jon Flobrant, CC0)](https://unsplash.com/photos/NEgEJmN3JZo "caption")
 
 >>>
 + asking for sth for my **passions**
@@ -345,6 +361,8 @@ Was not **Abraham** our father justified by **works** <br/>
 when he offered up his son **Isaac** on the altar?
 
 [James 2:21 (ESV) (p.1/3)](# "ref")
+
+[(img: Caravaggio, "The Sacrifice of Isaac", 1603)](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
 
 ---
 <!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
@@ -414,6 +432,8 @@ may **forgive** you your trespasses.”
 
 [Mark 11:25 (ESV)](# "ref")
 
+[(img: Milada Vigerova, CC0)](https://unsplash.com/photos/iQWvVYMtv1k "caption")
+
 >>>
 + 1st imperative (v23): **faith** in God
 + 2nd imperative (v25): **forgive**
@@ -431,6 +451,8 @@ or to say, <br/>
 ‘**Get up**, and pick up your pallet and **walk**’?
 
 [Mark 2:9 (ESV)](# "ref")
+
+[(img: Nikolay Svishchev-Paola, Beggar with a Lyra, 1900)](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
 + **forgiveness** || **healing**:
@@ -452,6 +474,8 @@ and if he has committed **sins**, <br/>
 they will be **forgiven** him.
 
 [James 5:15 (NASB) (p.1/2)](# "ref")
+
+[(img: Paul Itkin, Ukraine. CC0)](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 + not that all **illness** is
