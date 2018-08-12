@@ -91,6 +91,7 @@ may forgive you your trespasses.”
 + Is contingent on me showing **grace** to others:
 
 ---
+<!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %> -->
 ## Jesus' 3rd Passover [(Mk11-12)](# "ref")
 + With the **public**:
   + *Triumphal* Entry <%= bible('(Mk 11:1-11)') %>
