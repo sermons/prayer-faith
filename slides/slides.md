@@ -2,7 +2,7 @@
 # The Prayer of Faith
 ## Mark 11:12-14, 20-25
 
-[img: &copy; 2010 bigbirdz @Flickr, CC-BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279/ "caption")
+[&copy; 2010 bigbirdz/Flickr, CC-BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279/ "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -79,7 +79,7 @@ may forgive you your trespasses.”
 [Mark 11:24-25 (ESV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" id="outline" -->
 ## Prayer of Faith <%= bible('(Mark 11)') %>
 1. **Power** of God <%= bible('mk11.22-23', '(v22-23)') %>
 2. **Faith** in Action <%= bible('mk11.24', '(v24)') %>
@@ -122,7 +122,7 @@ but you have made it a den of **robbers**.
 
 [Mark 11:17 (ESV)](# "ref")
 
-[img: Bernardino Mei, "Christ Cleansing the Temple", ~1655](http://www.getty.edu/art/collection/objects/542/bernardino-mei-christ-cleansing-the-temple-italian-about-1655/ "caption")
+[Bernardino Mei, "Christ Cleansing the Temple", ~1655](http://www.getty.edu/art/collection/objects/542/bernardino-mei-christ-cleansing-the-temple-italian-about-1655/ "caption")
 
 >>>
 + kick out **robbers**
@@ -141,7 +141,7 @@ and give the vineyard to **others**.
 
 [Mark 12:9 (ESV)](# "ref")
 
-[img: Mike Kotsch, CC0](https://unsplash.com/photos/HNx4QLRgy2k "caption")
+[Mike Kotsch](https://unsplash.com/photos/HNx4QLRgy2k "caption")
 
 >>>
 + kick out **wicked caretakers**
@@ -157,7 +157,7 @@ The **fig tree** that you cursed has **withered**.
 
 [Mark 11:21 (ESV)](# "ref")
 
-[img: Michael Coury, Venray, Netherlands. CC0](https://unsplash.com/photos/DiKkJKvDi64 "caption")
+[Venray, Netherlands. Michael Coury](https://unsplash.com/photos/DiKkJKvDi64 "caption")
 
 >>>
 + Today: **small**, intimate w/discip
@@ -169,7 +169,7 @@ The **fig tree** that you cursed has **withered**.
   + showdown w/Pharisees
 
 ---
-<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" -->
 ## Prayer of Faith <%= bible('(Mark 11)') %>
 1. **Power of God** <%= bible('mk11.22-23', '(v22-23)') %>
 2. Faith in Action <%= bible('mk11.24', '(v24)') %>
@@ -197,7 +197,7 @@ Be **taken up** and **thrown** into the sea,’
 
 [Mark 11:22-23 (ESV)](# "ref")
 
-[img: Dan Stark, Victor Harbour, Australia. CC0](https://unsplash.com/photos/DLwUVlzrP0Q "caption")
+[Victor Harbour, Australia. Dan Stark](https://unsplash.com/photos/DLwUVlzrP0Q "caption")
 
 >>>
 + Primary **imperative** is v22:
@@ -258,7 +258,7 @@ that is driven and **tossed** by the wind.
 
 [James 1:5-6 (ESV)](# "ref")
 
-[img: Hans Braxmeier, CC0](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/ "caption")
+[Hans Braxmeier](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/ "caption")
 
 >>>
 + v7 should **not expect** to receive anything from God
@@ -281,7 +281,7 @@ that is driven and **tossed** by the wind.
   + grades, career, health, happiness
 
 ---
-<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" -->
 ## Prayer of Faith <%= bible('(Mark 11)') %>
 1. Power of God <%= bible('mk11.22-23', '(v22-23)') %>
 2. **Faith in Action** <%= bible('mk11.24', '(v24)') %>
@@ -304,7 +304,7 @@ and it will be yours.
 
 [Mark 11:24 (ESV)](# "ref")
 
-[img: Ben White, CC0](https://unsplash.com/photos/qYanN54gIrI "caption")
+[Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
 
 >>>
 + v23 God's **power** to move mountains
@@ -327,7 +327,7 @@ to spend it on your **passions**.
 
 [James 4:2-3 (ESV) (p.1/2)](# "ref")
 
-[img: Jon Flobrant, CC0](https://unsplash.com/photos/NEgEJmN3JZo "caption")
+[Jon Flobrant](https://unsplash.com/photos/NEgEJmN3JZo "caption")
 
 >>>
 + asking for sth for my **passions**
@@ -362,7 +362,7 @@ when he offered up his son **Isaac** on the altar?
 
 [James 2:21 (ESV) (p.1/3)](# "ref")
 
-[img: Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
+[Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
 
 ---
 <!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
@@ -432,7 +432,7 @@ may **forgive** you your trespasses.”
 
 [Mark 11:25 (ESV)](# "ref")
 
-[img: Milada Vigerova, CC0](https://unsplash.com/photos/iQWvVYMtv1k "caption")
+[Milada Vigerova](https://unsplash.com/photos/iQWvVYMtv1k "caption")
 
 >>>
 + 1st imperative (v23): **faith** in God
@@ -452,7 +452,7 @@ or to say, <br/>
 
 [Mark 2:9 (ESV)](# "ref")
 
-[img: Nikolay Svishchev-Paola, Beggar with a Lyra, 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
+[Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
 + **forgiveness** || **healing**:
@@ -475,7 +475,7 @@ they will be **forgiven** him.
 
 [James 5:15 (NASB) (p.1/2)](# "ref")
 
-[img: Paul Itkin, Ukraine. CC0](https://unsplash.com/photos/xCdFXXoZkJc "caption")
+[Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 + not that all **illness** is
