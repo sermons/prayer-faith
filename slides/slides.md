@@ -81,7 +81,7 @@ may forgive you your trespasses.”
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" id="outline" -->
 ## Prayer of Faith <%= bible('(Mark 11)') %>
-1. **Power** of God <%= bible('mk11.22-23', '(v22-23)') %>
+1. The **Power** of God <%= bible('mk11.22-23', '(v22-23)') %>
 2. **Faith** in Action <%= bible('mk11.24', '(v24)') %>
 3. **Grace** Received, Grace Given <%= bible('mk11.25', '(v25)') %>
 
@@ -172,7 +172,7 @@ The **fig tree** that you cursed has **withered**.
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" -->
 ## Prayer of Faith <%= bible('(Mark 11)') %>
-1. **Power of God** <%= bible('mk11.22-23', '(v22-23)') %>
+1. The **Power of God** <%= bible('mk11.22-23', '(v22-23)') %>
 2. Faith in Action <%= bible('mk11.24', '(v24)') %>
 3. Grace Received, Grace Given <%= bible('mk11.25', '(v25)') %>
 
@@ -284,7 +284,7 @@ that is driven and **tossed** by the wind.
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" -->
 ## Prayer of Faith <%= bible('(Mark 11)') %>
-1. Power of God <%= bible('mk11.22-23', '(v22-23)') %>
+1. The Power of God <%= bible('mk11.22-23', '(v22-23)') %>
 2. **Faith in Action** <%= bible('mk11.24', '(v24)') %>
 3. Grace Received, Grace Given <%= bible('mk11.25', '(v25)') %>
 
@@ -410,7 +410,7 @@ and he was called a **friend** of God.
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 ## Prayer of Faith <%= bible('(Mark 11)') %>
-1. Power of God <%= bible('mk11.22-23', '(v22-23)') %>
+1. The Power of God <%= bible('mk11.22-23', '(v22-23)') %>
 2. Faith in Action <%= bible('mk11.24', '(v24)') %>
 3. **Grace Received, Grace Given** <%= bible('mk11.25', '(v25)') %>
 
