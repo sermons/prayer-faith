@@ -4,6 +4,13 @@
 
 [&copy; 2010 bigbirdz/Flickr, CC-BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279/ "caption")
 
+>>>
++ have you ever **prayed**, and
++ God seemingly does not **answer**?
++ **why** is that?
++ God doesn't really answer prayer? 
++ I don't have strong enough faith? 
+
 ---
 <!-- .slide: data-background="white" -->
 # What kind of **prayer** does God answer?
