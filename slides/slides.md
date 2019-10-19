@@ -17,7 +17,7 @@
 
 [###](#/outline "secret")
 
----
+******
 The next day as they were leaving Bethany, <br/>
 Jesus was hungry.
 
@@ -27,7 +27,7 @@ he went to find out if it had any fruit.
 
 [Mark 11:12-13 (ESV) (p.1/5)](# "ref")
 
----
+******
 When he reached it,  <br/>
 he found nothing but leaves, <br/>
 because it was not the season for figs.
@@ -40,7 +40,7 @@ And his disciples heard him say it.
 
 [Mark 11:13-14 (ESV) (p.2/5)](# "ref")
 
----
+******
 [20](# "ref")
 As they passed by in the morning, <br/>
 they saw the fig tree <br/>
@@ -53,7 +53,7 @@ The fig tree that you cursed has withered.”
 
 [Mark 11:20-21 (ESV) (p.3/5)](# "ref")
 
----
+******
 [22](# "ref")
 And Jesus answered them, <br/>
 “Have faith in God.
@@ -69,7 +69,7 @@ will come to pass, it will be done for him.
 
 [Mark 11:22-23 (ESV) (p.4/5)](# "ref")
 
----
+******
 [24](# "ref")
 Therefore I tell you,  <br/>
 whatever you ask in prayer,  <br/>
