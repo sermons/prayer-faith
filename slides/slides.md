@@ -220,18 +220,18 @@ Be **taken up** and **thrown** into the sea,’
 + focusing on strength of **own** conviction is like saying:
 
 ---
-## "God, I believe You will do what **I ask**&nbsp;"
+## "God, I believe You will do what **I ask**?"
 
 >>>
 + "if I believe **hard enough**, God will do"
   + &rArr; who is **servant**, who is King?
 
 ---
-## ~~"God, I believe You will do what **I ask**&nbsp;"~~
+## ~~"God, I believe You will do what **I ask**?"~~
 
 vs
 
-## "God, I believe You will do <br/> what **You promised**&nbsp;"
+## "God, I believe You will do <br/> what **You promised**!"
 
 >>>
 + faith in **God** means:
@@ -317,7 +317,7 @@ and it will be yours.
 >>>
 + v23 God's **power** to move mountains
 + v24 our faith **relatn** w/God in prayer
-+ *"prayer", "ask"*: not **command**
++ *prayer, ask*: not **command**
   + prayer requires **submission**
 + if I do not ack I'm **subordinate** to God
   + then I'm not **praying**:
@@ -368,20 +368,15 @@ and he will draw **near** to you.
 Was not **Abraham** our father justified by **works** <br/>
 when he offered up his son **Isaac** on the altar?
 
-[James 2:21 (ESV) (p.1/3)](# "ref")
-
-[Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
-
----
-<!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
 You see that **faith** was **active** <br/>
-along with his works,
-
+along with his works,<br>
 and faith was **completed** by his works;
 
 and the Scripture was fulfilled that says,
 
-[James 2:22 (ESV) (p.2/3)](# "ref")
+[James 2:21-23 (ESV) (p.1/2)](# "ref")
+
+[Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
 
 ---
 <!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
@@ -389,7 +384,7 @@ and the Scripture was fulfilled that says,
 and it was counted to him as **righteousness**” -- <br/>
 and he was called a **friend** of God.
 
-[James 2:23 (ESV) (p.3/3)](# "ref")
+[James 2:21-23 (ESV) (p.2/2)](# "ref")
 
 >>>
 + God's **promise** (Gen 15): **believed** God
