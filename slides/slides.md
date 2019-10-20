@@ -101,14 +101,14 @@ may forgive you your trespasses.”
 <!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %> -->
 ## Jesus' 3rd Passover [(Mk11-12)](# "ref")
 + With the **public**:
-  + *Triumphal* Entry <%= bible('(Mk 11:1-11)') %>
-  + Cleansing of the *Temple* <%= bible('(Mk 11:15-19)') %>
+  + *Triumphal* Entry [(11:1-11)](# "ref")
+  + Cleansing of the *Temple* [(11:15-19)](# "ref")
 + With the **disciples**:
-  + Cursing of the *Fig Tree* <%= bible('(Mk 11:12-14,20-25)') %>
+  + Cursing of the *Fig Tree* [(11:12-14,20-25)](# "ref")
 + With the **religious leaders**:
-  + Jesus' *Authority* <%= bible('(Mk 11:27-33)') %>
-  + *Vineyard* and Tenants <%= bible('(Mk 12:1-12)') %>
-  + *Pharisees*, Sadducees, Scribes <%= bible('(Mk 12:13-38)') %>
+  + Jesus' *Authority* [(11:27-33)](# "ref")
+  + *Vineyard* and Tenants [(12:1-12)](# "ref")
+  + *Pharisees*, Sadducees, Scribes [(12:13-38)](# "ref")
 
 >>>
 + Jesus' ministry mostly **Galilee**
@@ -209,8 +209,8 @@ Be **taken up** and **thrown** into the sea,’
 
 >>>
 + Primary **imperative** is v22:
-  + *"faith in God"*: **Godly** faith
-+ *"mountain"*: rabbinic **idiom**
+  + *faith in God* : **Godly** faith
++ *mountain* : rabbinic **idiom**
   + all things, nothing impossible
   + **Creator** has authority over
     + fig tree, mountain, wind+waves
@@ -220,18 +220,18 @@ Be **taken up** and **thrown** into the sea,’
 + focusing on strength of **own** conviction is like saying:
 
 ---
-## "God, I believe You will do what **I ask**"
+## "God, I believe You will do what **I ask**&nbsp;"
 
 >>>
 + "if I believe **hard enough**, God will do"
   + &rArr; who is **servant**, who is King?
 
 ---
-## ~~"God, I believe You will do what **I ask**"~~
+## ~~"God, I believe You will do what **I ask**&nbsp;"~~
 
 vs
 
-## "God, I believe You will do <br/> what **You promised**"
+## "God, I believe You will do <br/> what **You promised**&nbsp;"
 
 >>>
 + faith in **God** means:
