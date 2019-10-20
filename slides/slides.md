@@ -220,18 +220,18 @@ Be **taken up** and **thrown** into the sea,’
 + focusing on strength of **own** conviction is like saying:
 
 ---
-## "God, I believe You will do what **I ask**?"
+## "God, I believe You will do what **I ask**”
 
 >>>
 + "if I believe **hard enough**, God will do"
   + &rArr; who is **servant**, who is King?
 
 ---
-## ~~"God, I believe You will do what **I ask**?"~~
+## ~~"God, I believe You will do what **I ask**”~~
 
 vs
 
-## "God, I believe You will do <br/> what **You promised**!"
+## "God, I believe You will do <br/> what **You promised**”
 
 >>>
 + faith in **God** means:
@@ -431,7 +431,7 @@ And whenever you stand praying, **forgive**,  <br/>
 if you have anything **against** anyone,
 
 so that your **Father** also who is in heaven  <br/>
-may **forgive** you your trespasses.”
+may **forgive** you your trespasses.
 
 [Mark 11:25 (ESV)](# "ref")
 
@@ -508,8 +508,8 @@ can **accomplish** much.
 
 ---
 <!-- .slide: data-background="white" -->
-# What **grace** has God shown me?
-# What **grace** will I show to others?
+# What **grace** has God shown **me**?
+# What **grace** will I show to **others**?
 
 >>>
 + **forgiveness** of sin
