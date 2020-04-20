@@ -1,7 +1,7 @@
 # The Prayer of Faith
 ## Mark 11:12-14, 20-25
 
-[![Build status](https://travis-ci.org/sermons/prayer-faith.svg)](https://travis-ci.org/sermons/prayer-faith)
+[![Build status](https://api.travis-ci.org/sermons/prayer-faith.svg)](https://travis-ci.org/github/sermons/prayer-faith)
 [![Node deps](https://david-dm.org/sermons/prayer-faith.svg)](https://david-dm.org/sermons/prayer-faith)
 [![Node devDeps](https://david-dm.org/sermons/prayer-faith/dev-status.svg)](https://david-dm.org/sermons/prayer-faith?type=dev)
 
