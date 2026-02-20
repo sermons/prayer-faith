@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> id="title" -->
 # The Prayer of Faith
 ## Mark 11:12-14, 20-25
 
@@ -14,76 +14,6 @@
 ---
 <!-- .slide: data-background="white" -->
 # What kind of **prayer** does God answer?
-
-[###](#/outline "secret")
-
-******
-The next day as they were leaving Bethany, <br/>
-Jesus was hungry.
-
-[13](# "ref")
-Seeing in the distance a fig tree in leaf, <br/>
-he went to find out if it had any fruit.
-
-[Mark 11:12-13 (ESV) (p.1/5)](# "ref")
-
-******
-When he reached it,  <br/>
-he found nothing but leaves, <br/>
-because it was not the season for figs.
-
-[14](# "ref")
-Then he said to the tree,  <br/>
-“May no one ever eat fruit from you again.”
-
-And his disciples heard him say it.
-
-[Mark 11:13-14 (ESV) (p.2/5)](# "ref")
-
-******
-[20](# "ref")
-As they passed by in the morning, <br/>
-they saw the fig tree <br/>
-withered away to its roots.
-
-[21](# "ref")
-And Peter remembered <br/>
-and said to him, “Rabbi, look! <br/>
-The fig tree that you cursed has withered.”
-
-[Mark 11:20-21 (ESV) (p.3/5)](# "ref")
-
-******
-[22](# "ref")
-And Jesus answered them, <br/>
-“Have faith in God.
-
-[23](# "ref")
-Truly, I say to you,  <br/>
-whoever says to this mountain,  <br/>
-Be taken up and thrown into the sea,’
-
-and does not doubt in his heart,  <br/>
-but believes that what he says  <br/>
-will come to pass, it will be done for him.
-
-[Mark 11:22-23 (ESV) (p.4/5)](# "ref")
-
-******
-[24](# "ref")
-Therefore I tell you,  <br/>
-whatever you ask in prayer,  <br/>
-believe that you have received it,  <br/>
-and it will be yours.
-
-[25](# "ref")
-And whenever you stand praying, forgive,  <br/>
-if you have anything against anyone,
-
-so that your Father also who is in heaven  <br/>
-may forgive you your trespasses.”
-
-[Mark 11:24-25 (ESV) (p.5/5)](# "ref")
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" id="outline" -->
@@ -129,7 +59,6 @@ a house of **prayer** for all the nations,
 but you have made it a den of **robbers**.
 
 [Mark 11:17 (ESV)](# "ref")
-
 [Bernardino Mei, "Christ Cleansing the Temple", ~1655](http://www.getty.edu/art/collection/objects/542/bernardino-mei-christ-cleansing-the-temple-italian-about-1655/ "caption")
 
 >>>
@@ -148,7 +77,6 @@ He will come and **destroy** the tenants <br/>
 and give the vineyard to **others**.
 
 [Mark 12:9 (ESV)](# "ref")
-
 [Mike Kotsch](https://unsplash.com/photos/HNx4QLRgy2k "caption")
 
 >>>
@@ -164,7 +92,6 @@ Rabbi, look! <br/>
 The **fig tree** that you cursed has **withered**.
 
 [Mark 11:21 (ESV)](# "ref")
-
 [Venray, Netherlands. Michael Coury](https://unsplash.com/photos/DiKkJKvDi64 "caption")
 
 >>>
@@ -198,13 +125,11 @@ The **fig tree** that you cursed has **withered**.
 And Jesus answered them, <br/>
 “Have **faith** in **God**.
 
-[23](# "ref")
 Truly, I say to you,  <br/>
 whoever says to this **mountain**,  <br/>
 Be **taken up** and **thrown** into the sea,’
 
 [Mark 11:22-23 (ESV)](# "ref")
-
 [Victor Harbour, Australia. Dan Stark](https://unsplash.com/photos/DLwUVlzrP0Q "caption")
 
 >>>
@@ -259,13 +184,11 @@ If any of you lacks **wisdom**, let him **ask God**, <br/>
 who gives **generously** to all without reproach, <br/>
 and it will be given him.
 
-[6](# "ref")
 But let him ask in **faith**, with **no doubting**, <br/>
 for the one who doubts is like a **wave** of the sea <br/>
 that is driven and **tossed** by the wind.
 
 [James 1:5-6 (ESV)](# "ref")
-
 [Hans Braxmeier](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/ "caption")
 
 >>>
@@ -311,7 +234,6 @@ believe that you have received it,  <br/>
 and it will be yours.
 
 [Mark 11:24 (ESV)](# "ref")
-
 [Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
 
 >>>
@@ -327,14 +249,12 @@ and it will be yours.
 ---
 <!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
 You do not **have**, because you do not **ask**. <br/>
-[3](# "ref")
 You ask and do not **receive**,
 
 because you ask **wrongly**, <br/>
 to spend it on your **passions**.
 
 [James 4:2-3 (ESV) (p.1/2)](# "ref")
-
 [Jon Flobrant](https://unsplash.com/photos/NEgEJmN3JZo "caption")
 
 >>>
@@ -348,7 +268,6 @@ to spend it on your **passions**.
 <!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
 **Submit** yourselves therefore to God. ...
 
-[8](# "ref")
 Draw **near** to God, <br/>
 and he will draw **near** to you.
 
@@ -375,7 +294,6 @@ and faith was **completed** by his works;
 and the Scripture was fulfilled that says,
 
 [James 2:21-23 (ESV) (p.1/2)](# "ref")
-
 [Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
 
 ---
@@ -434,7 +352,6 @@ so that your **Father** also who is in heaven  <br/>
 may **forgive** you your trespasses.
 
 [Mark 11:25 (ESV)](# "ref")
-
 [Milada Vigerova](https://unsplash.com/photos/iQWvVYMtv1k "caption")
 
 >>>
@@ -454,7 +371,6 @@ or to say, <br/>
 ‘**Get up**, and pick up your pallet and **walk**’?
 
 [Mark 2:9 (ESV)](# "ref")
-
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
@@ -477,7 +393,6 @@ and if he has committed **sins**, <br/>
 they will be **forgiven** him.
 
 [James 5:15 (NASB) (p.1/2)](# "ref")
-
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
