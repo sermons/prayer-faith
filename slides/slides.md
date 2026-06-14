@@ -437,15 +437,17 @@ Which is easier, to say to the paralytic,  <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
-The prayer offered in **faith**
-
+The prayer offered in **faith** <br/>
 will restore the one who is **sick**, <br/>
-and the Lord will **raise** him up,
-
+and the Lord will **raise** him up, <br/>
 and if he has committed **sins**, <br/>
 they will be **forgiven** him.
 
-[James 雅各 5:15 (NASB/CUV) (p.3/3)](# "ref")
+出於信心的祈禱要救那病人，<br/>
+主必叫他起來；<br/>
+他若犯了罪，也必蒙赦免。
+
+[James 雅各 5:15-16 (NASB/CUV) (p.1/2)](# "ref")
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
@@ -458,12 +460,15 @@ they will be **forgiven** him.
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Therefore, **confess** your sins to one another, <br/>
 and **pray** for one another <br/>
-so that you may be **healed**.
-
+so that you may be **healed**.<br/>
 The **effective** prayer of a **righteous** man <br/>
 can **accomplish** much.
 
-[James 5:16 (NASB) (p.2/2)](# "ref")
+所以你們要彼此認罪，互相代求，<br/>
+使你們可以得醫治。<br/>
+義人祈禱所發的力量是大有功效的。
+
+[James 雅各 5:15-16 (NASB/CUV) (p.2/2)](# "ref")
 
 >>>
 + but I'm **not** righteous!
@@ -484,29 +489,6 @@ can **accomplish** much.
   + **healing** of illness
   + deemed **righteous** bc of Christ
 + &rArr; show the same to others?
-
----
-<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
-The prayer offered in **faith**
-
-will restore the one who is **sick**, <br/>
-and the Lord will **raise** him up,
-
-and if he has committed **sins**, <br/>
-they will be **forgiven** him.
-
-[James 5:15 (NASB) (p.1/2)](# "ref")
-
----
-<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
-Therefore, **confess** your sins to one another, <br/>
-and **pray** for one another <br/>
-so that you may be **healed**.
-
-The **effective** prayer of a **righteous** man <br/>
-can **accomplish** much.
-
-[James 5:16 (NASB) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="empty" -->
