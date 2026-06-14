@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> id="title" -->
 # The Prayer of Faith
-## Mark 11:12-14, 20-25
+## Mark 馬可 11:12-14, 20-25
 
 [&copy; 2010 bigbirdz/Flickr, CC-BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279/ "caption")
 
@@ -17,10 +17,10 @@
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" id="outline" -->
-## Prayer of Faith <%= bible('(Mark 11)') %>
-1. The **Power** of God <%= bible('mk11.22-23', '(v22-23)') %>
-2. **Faith** in Action <%= bible('mk11.24', '(v24)') %>
-3. **Grace** Received, Grace Given <%= bible('mk11.25', '(v25)') %>
+## Prayer of Faith [(Mark 11)](# "ref")
+1. The **Power** of God [(v22-23)](# "ref")
+2. **Faith** in Action [(v24)](# "ref")
+3. **Grace** Received, Grace Given [(v25)](# "ref")
 
 >>>
 + Centers on God's **power**, not my conviction
@@ -54,11 +54,13 @@
 ---
 <!-- .slide: <%= bg("Mei-Christ_Cleansing_the_Temple.jpg") %> -->
 **My house** shall be called <br/>
-a house of **prayer** for all the nations,
-
+a house of **prayer** for all the nations,<br/>
 but you have made it a den of **robbers**.
 
-[Mark 11:17 (ESV)](# "ref")
+我的殿必稱為萬國禱告的殿麼,<br/>
+你們倒使他成為賊窩了。
+
+[Mark 馬可 11:17 (ESV/CUV)](# "ref")
 [Bernardino Mei, "Christ Cleansing the Temple", ~1655](http://www.getty.edu/art/collection/objects/542/bernardino-mei-christ-cleansing-the-temple-italian-about-1655/ "caption")
 
 >>>
@@ -71,12 +73,14 @@ but you have made it a den of **robbers**.
 
 ---
 <!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
-What will the **owner** of the vineyard do?
-
+What will the **owner** of the vineyard do?<br/>
 He will come and **destroy** the tenants <br/>
 and give the vineyard to **others**.
 
-[Mark 12:9 (ESV)](# "ref")
+這樣，葡萄園的主人要怎麼辦呢？<br/>
+他要來除滅那些園戶，將葡萄園轉給別人
+
+[Mark 馬可 12:9 (ESV/CUV)](# "ref")
 [Mike Kotsch](https://unsplash.com/photos/HNx4QLRgy2k "caption")
 
 >>>
@@ -91,7 +95,10 @@ and give the vineyard to **others**.
 Rabbi, look! <br/>
 The **fig tree** that you cursed has **withered**.
 
-[Mark 11:21 (ESV)](# "ref")
+拉比，請看！<br/>
+你所咒詛的無花果樹，已經枯乾了
+
+[Mark 馬可 11:21 (ESV/CUV)](# "ref")
 [Venray, Netherlands. Michael Coury](https://unsplash.com/photos/DiKkJKvDi64 "caption")
 
 >>>
@@ -105,10 +112,10 @@ The **fig tree** that you cursed has **withered**.
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" -->
-## Prayer of Faith <%= bible('(Mark 11)') %>
-1. The **Power of God** <%= bible('mk11.22-23', '(v22-23)') %>
-2. Faith in Action <%= bible('mk11.24', '(v24)') %>
-3. Grace Received, Grace Given <%= bible('mk11.25', '(v25)') %>
+## Prayer of Faith [(Mark 11)](# "ref")
+1. **The Power of God** [(v22-23)](# "ref")
+2. Faith in Action [(v24)](# "ref")
+3. Grace Received, Grace Given [(v25)](# "ref")
 
 >>>
 + Jesus **teaches** his disciples:
@@ -122,14 +129,16 @@ The **fig tree** that you cursed has **withered**.
 
 ---
 <!-- .slide: <%= bg("unsplash-DLwUVlzrP0Q-waves_rocks.jpg") %> -->
-And Jesus answered them, <br/>
-“Have **faith** in **God**.
-
+“Have **faith** in **God**.<br/>
 Truly, I say to you,  <br/>
 whoever says to this **mountain**,  <br/>
 Be **taken up** and **thrown** into the sea,’
 
-[Mark 11:22-23 (ESV)](# "ref")
+耶穌回答說：你們當信服神。<br/>
+我實在告訴你們，無論何人對這座山說：<br/>
+你挪開此地，投在海裡！
+
+[Mark 馬可 11:22-23 (ESV/CUV)](# "ref")
 [Victor Harbour, Australia. Dan Stark](https://unsplash.com/photos/DLwUVlzrP0Q "caption")
 
 >>>
@@ -170,7 +179,10 @@ and does not **doubt** in his heart,  <br/>
 but **believes** that what he says  <br/>
 will come to pass, it will be **done** for him.
 
-[Mark 11:23 (ESV)](# "ref")
+他若心裡不疑惑，只信他所說的必成，<br/>
+就必給他成了。
+
+[Mark 馬可 11:23 (ESV/CUV)](# "ref")
 
 >>>
 + **"doubt"** (διακριθῇ, hesitate, judge back/forth)
@@ -184,12 +196,24 @@ If any of you lacks **wisdom**, let him **ask God**, <br/>
 who gives **generously** to all without reproach, <br/>
 and it will be given him.
 
+你們中間若有缺少智慧的，<br/>
+應當求那厚賜與眾人、<br/>
+也不斥責人的神，主就必賜給他。
+
+[James 雅各 1:5-6 (ESV/CUV) (p.1/2)](# "ref")
+[Hans Braxmeier](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/ "caption")
+
+---
+<!-- .slide: <%= bg("Hans-wave-384385.jpg") %> -->
 But let him ask in **faith**, with **no doubting**, <br/>
 for the one who doubts is like a **wave** of the sea <br/>
 that is driven and **tossed** by the wind.
 
-[James 1:5-6 (ESV)](# "ref")
-[Hans Braxmeier](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/ "caption")
+只要憑著信心求，一點不疑惑；<br/>
+因為那疑惑的人，就像海中的波浪，<br/>
+被風吹動翻騰。
+
+[James 雅各 1:5-6 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + v7 should **not expect** to receive anything from God
@@ -213,10 +237,10 @@ that is driven and **tossed** by the wind.
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" -->
-## Prayer of Faith <%= bible('(Mark 11)') %>
-1. The Power of God <%= bible('mk11.22-23', '(v22-23)') %>
-2. **Faith in Action** <%= bible('mk11.24', '(v24)') %>
-3. Grace Received, Grace Given <%= bible('mk11.25', '(v25)') %>
+## Prayer of Faith [(Mark 11)](# "ref")
+1. The Power of God [(v22-23)](# "ref")
+2. **Faith in Action** [(v24)](# "ref")
+3. Grace Received, Grace Given [(v25)](# "ref")
 
 >>>
 + A **prayer** that God answers:
@@ -233,7 +257,11 @@ whatever you **ask** in **prayer**,  <br/>
 believe that you have received it,  <br/>
 and it will be yours.
 
-[Mark 11:24 (ESV)](# "ref")
+所以我告訴你們，<br/>
+凡你們禱告祈求的，無論是甚麼，<br/>
+只要信是得著的，就必得著。
+
+[Mark 馬可 11:24 (ESV/CUV)](# "ref")
 [Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
 
 >>>
@@ -249,12 +277,14 @@ and it will be yours.
 ---
 <!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
 You do not **have**, because you do not **ask**. <br/>
-You ask and do not **receive**,
-
+You ask and do not **receive**,<br/>
 because you ask **wrongly**, <br/>
 to spend it on your **passions**.
 
-[James 4:2-3 (ESV) (p.1/2)](# "ref")
+你們得不著，是因為你們不求。<br/>
+你們求也得不著，是因為你們妄求，<br/>
+
+[James 雅各 4:2-3 (ESV/CUV)](# "ref")
 [Jon Flobrant](https://unsplash.com/photos/NEgEJmN3JZo "caption")
 
 >>>
@@ -266,12 +296,16 @@ to spend it on your **passions**.
 
 ---
 <!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
-**Submit** yourselves therefore to God. ...
+**Submit** yourselves therefore to God. 
+
+故此，你們要順服神。
 
 Draw **near** to God, <br/>
 and he will draw **near** to you.
 
-[James 4:7,8 (ESV) (p.2/2)](# "ref")
+你們親近神，神就必親近你們。
+
+[James 雅各 4:7,8 (ESV/CUV)](# "ref")
 
 >>>
 + To have **faith** in God means
@@ -287,14 +321,24 @@ and he will draw **near** to you.
 Was not **Abraham** our father justified by **works** <br/>
 when he offered up his son **Isaac** on the altar?
 
+我們的祖宗亞伯拉罕<br/>
+把他兒子以撒獻在壇上，<br/>
+豈不是因行為稱義麼？
+
+[James 雅各 2:21-23 (ESV/CUV) (p.1/3)](# "ref")
+[Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
+
+---
 You see that **faith** was **active** <br/>
 along with his works,<br>
 and faith was **completed** by his works;
-
 and the Scripture was fulfilled that says,
 
-[James 2:21-23 (ESV) (p.1/2)](# "ref")
-[Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
+可見，信心是與他的行為並行，<br/>
+而且信心因著行為才得成全。<br/>
+這就應驗經上所說：
+
+[James 雅各 2:21-23 (ESV/CUV) (p.3/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
@@ -302,7 +346,10 @@ and the Scripture was fulfilled that says,
 and it was counted to him as **righteousness**” -- <br/>
 and he was called a **friend** of God.
 
-[James 2:21-23 (ESV) (p.2/2)](# "ref")
+「亞伯拉罕信神，這就算為他的義。」<br/>
+他又得稱為神的朋友。
+
+[James 雅各 2:21-23 (ESV/CUV) (p.3/3)](# "ref")
 
 >>>
 + God's **promise** (Gen 15): **believed** God
@@ -328,11 +375,11 @@ and he was called a **friend** of God.
   + **trust** + **obey**
 
 ---
-<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
-## Prayer of Faith <%= bible('(Mark 11)') %>
-1. The Power of God <%= bible('mk11.22-23', '(v22-23)') %>
-2. Faith in Action <%= bible('mk11.24', '(v24)') %>
-3. **Grace Received, Grace Given** <%= bible('mk11.25', '(v25)') %>
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> class="outline" -->
+## Prayer of Faith [(Mark 11)](# "ref")
+1. The Power of God [(v22-23)](# "ref")
+2. Faith in Action [(v24)](# "ref")
+3. **Grace Received**, Grace Given [(v25)](# "ref")
 
 >>>
 + Prayer that God accepts:
@@ -346,12 +393,16 @@ and he was called a **friend** of God.
 ---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 And whenever you stand praying, **forgive**,  <br/>
-if you have anything **against** anyone,
-
+if you have anything **against** anyone,<br/>
 so that your **Father** also who is in heaven  <br/>
 may **forgive** you your trespasses.
 
-[Mark 11:25 (ESV)](# "ref")
+你們站著禱告的時候，<br/>
+若想起有人得罪你們，就當饒恕他，<br/>
+好叫你們在天上的父<br/>
+也饒恕你們的過犯。
+
+[Mark 馬可 11:25 (ESV/CUV)](# "ref")
 [Milada Vigerova](https://unsplash.com/photos/iQWvVYMtv1k "caption")
 
 >>>
@@ -365,12 +416,14 @@ may **forgive** you your trespasses.
 ---
 <!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
 Which is easier, to say to the paralytic,  <br/>
-‘Your sins are **forgiven**’;
-
-or to say, <br/>
+‘Your sins are **forgiven**’; or to say, <br/>
 ‘**Get up**, and pick up your pallet and **walk**’?
 
-[Mark 2:9 (ESV)](# "ref")
+或對癱子說你的罪赦了，<br/>
+或說起來！ 拿你的褥子行走；<br/>
+那一樣容易呢？
+
+[Mark 馬可 2:9 (ESV/CUV)](# "ref")
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
@@ -392,7 +445,7 @@ and the Lord will **raise** him up,
 and if he has committed **sins**, <br/>
 they will be **forgiven** him.
 
-[James 5:15 (NASB) (p.1/2)](# "ref")
+[James 雅各 5:15 (NASB/CUV) (p.3/3)](# "ref")
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
