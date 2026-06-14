@@ -329,10 +329,11 @@ when he offered up his son **Isaac** on the altar?
 [Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
 
 ---
+<!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
 You see that **faith** was **active** <br/>
-along with his works,<br>
-and faith was **completed** by his works;
-and the Scripture was fulfilled that says,
+along with his works, and <br>
+faith was **completed** by his works; and <br/>
+the Scripture was fulfilled that says,
 
 可見，信心是與他的行為並行，<br/>
 而且信心因著行為才得成全。<br/>
